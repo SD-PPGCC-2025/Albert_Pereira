@@ -1,0 +1,208 @@
+C:\Users\alber\OneDrive\Documentos\TRABALHO\JOPE TECNOLOGIA\PROJETOS\GEDAI\GEDAI\GEDAI.Authorization.Api\bin\Debug\net8.0\appsettings.Development.json
+C:\Users\alber\OneDrive\Documentos\TRABALHO\JOPE TECNOLOGIA\PROJETOS\GEDAI\GEDAI\GEDAI.Authorization.Api\bin\Debug\net8.0\appsettings.json
+C:\Users\alber\OneDrive\Documentos\TRABALHO\JOPE TECNOLOGIA\PROJETOS\GEDAI\GEDAI\GEDAI.Authorization.Api\bin\Debug\net8.0\GEDAI.Authorization.Api.exe
+C:\Users\alber\OneDrive\Documentos\TRABALHO\JOPE TECNOLOGIA\PROJETOS\GEDAI\GEDAI\GEDAI.Authorization.Api\bin\Debug\net8.0\GEDAI.Authorization.Api.deps.json
+C:\Users\alber\OneDrive\Documentos\TRABALHO\JOPE TECNOLOGIA\PROJETOS\GEDAI\GEDAI\GEDAI.Authorization.Api\bin\Debug\net8.0\GEDAI.Authorization.Api.runtimeconfig.json
+C:\Users\alber\OneDrive\Documentos\TRABALHO\JOPE TECNOLOGIA\PROJETOS\GEDAI\GEDAI\GEDAI.Authorization.Api\bin\Debug\net8.0\GEDAI.Authorization.Api.dll
+C:\Users\alber\OneDrive\Documentos\TRABALHO\JOPE TECNOLOGIA\PROJETOS\GEDAI\GEDAI\GEDAI.Authorization.Api\bin\Debug\net8.0\GEDAI.Authorization.Api.pdb
+C:\Users\alber\OneDrive\Documentos\TRABALHO\JOPE TECNOLOGIA\PROJETOS\GEDAI\GEDAI\GEDAI.Authorization.Api\bin\Debug\net8.0\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+C:\Users\alber\OneDrive\Documentos\TRABALHO\JOPE TECNOLOGIA\PROJETOS\GEDAI\GEDAI\GEDAI.Authorization.Api\bin\Debug\net8.0\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\alber\OneDrive\Documentos\TRABALHO\JOPE TECNOLOGIA\PROJETOS\GEDAI\GEDAI\GEDAI.Authorization.Api\bin\Debug\net8.0\Microsoft.Extensions.Diagnostics.Abstractions.dll
+C:\Users\alber\OneDrive\Documentos\TRABALHO\JOPE TECNOLOGIA\PROJETOS\GEDAI\GEDAI\GEDAI.Authorization.Api\bin\Debug\net8.0\Microsoft.Extensions.Hosting.Abstractions.dll
+C:\Users\alber\OneDrive\Documentos\TRABALHO\JOPE TECNOLOGIA\PROJETOS\GEDAI\GEDAI\GEDAI.Authorization.Api\bin\Debug\net8.0\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\alber\OneDrive\Documentos\TRABALHO\JOPE TECNOLOGIA\PROJETOS\GEDAI\GEDAI\GEDAI.Authorization.Api\bin\Debug\net8.0\Microsoft.Extensions.ObjectPool.dll
+C:\Users\alber\OneDrive\Documentos\TRABALHO\JOPE TECNOLOGIA\PROJETOS\GEDAI\GEDAI\GEDAI.Authorization.Api\bin\Debug\net8.0\Microsoft.Extensions.Options.dll
+C:\Users\alber\OneDrive\Documentos\TRABALHO\JOPE TECNOLOGIA\PROJETOS\GEDAI\GEDAI\GEDAI.Authorization.Api\bin\Debug\net8.0\Microsoft.Extensions.WebEncoders.dll
+C:\Users\alber\OneDrive\Documentos\TRABALHO\JOPE TECNOLOGIA\PROJETOS\GEDAI\GEDAI\GEDAI.Authorization.Api\bin\Debug\net8.0\Microsoft.IdentityModel.Abstractions.dll
+C:\Users\alber\OneDrive\Documentos\TRABALHO\JOPE TECNOLOGIA\PROJETOS\GEDAI\GEDAI\GEDAI.Authorization.Api\bin\Debug\net8.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\alber\OneDrive\Documentos\TRABALHO\JOPE TECNOLOGIA\PROJETOS\GEDAI\GEDAI\GEDAI.Authorization.Api\bin\Debug\net8.0\Microsoft.IdentityModel.Logging.dll
+C:\Users\alber\OneDrive\Documentos\TRABALHO\JOPE TECNOLOGIA\PROJETOS\GEDAI\GEDAI\GEDAI.Authorization.Api\bin\Debug\net8.0\Microsoft.IdentityModel.Protocols.dll
+C:\Users\alber\OneDrive\Documentos\TRABALHO\JOPE TECNOLOGIA\PROJETOS\GEDAI\GEDAI\GEDAI.Authorization.Api\bin\Debug\net8.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\alber\OneDrive\Documentos\TRABALHO\JOPE TECNOLOGIA\PROJETOS\GEDAI\GEDAI\GEDAI.Authorization.Api\bin\Debug\net8.0\Microsoft.IdentityModel.Tokens.dll
+C:\Users\alber\OneDrive\Documentos\TRABALHO\JOPE TECNOLOGIA\PROJETOS\GEDAI\GEDAI\GEDAI.Authorization.Api\bin\Debug\net8.0\Microsoft.OpenApi.dll
+C:\Users\alber\OneDrive\Documentos\TRABALHO\JOPE TECNOLOGIA\PROJETOS\GEDAI\GEDAI\GEDAI.Authorization.Api\bin\Debug\net8.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\alber\OneDrive\Documentos\TRABALHO\JOPE TECNOLOGIA\PROJETOS\GEDAI\GEDAI\GEDAI.Authorization.Api\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\alber\OneDrive\Documentos\TRABALHO\JOPE TECNOLOGIA\PROJETOS\GEDAI\GEDAI\GEDAI.Authorization.Api\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\alber\OneDrive\Documentos\TRABALHO\JOPE TECNOLOGIA\PROJETOS\GEDAI\GEDAI\GEDAI.Authorization.Api\bin\Debug\net8.0\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\alber\OneDrive\Documentos\TRABALHO\JOPE TECNOLOGIA\PROJETOS\GEDAI\GEDAI\GEDAI.Authorization.Api\bin\Debug\net8.0\System.Security.Cryptography.Pkcs.dll
+C:\Users\alber\OneDrive\Documentos\TRABALHO\JOPE TECNOLOGIA\PROJETOS\GEDAI\GEDAI\GEDAI.Authorization.Api\bin\Debug\net8.0\System.Security.Cryptography.Xml.dll
+C:\Users\alber\OneDrive\Documentos\TRABALHO\JOPE TECNOLOGIA\PROJETOS\GEDAI\GEDAI\GEDAI.Authorization.Api\bin\Debug\net8.0\runtimes\win\lib\net8.0\System.Security.Cryptography.Pkcs.dll
+C:\Users\alber\OneDrive\Documentos\TRABALHO\JOPE TECNOLOGIA\PROJETOS\GEDAI\GEDAI\GEDAI.Authorization.Api\obj\Debug\net8.0\GEDAI.Authorization.Api.csproj.AssemblyReference.cache
+C:\Users\alber\OneDrive\Documentos\TRABALHO\JOPE TECNOLOGIA\PROJETOS\GEDAI\GEDAI\GEDAI.Authorization.Api\obj\Debug\net8.0\GEDAI.Authorization.Api.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\alber\OneDrive\Documentos\TRABALHO\JOPE TECNOLOGIA\PROJETOS\GEDAI\GEDAI\GEDAI.Authorization.Api\obj\Debug\net8.0\GEDAI.Authorization.Api.AssemblyInfoInputs.cache
+C:\Users\alber\OneDrive\Documentos\TRABALHO\JOPE TECNOLOGIA\PROJETOS\GEDAI\GEDAI\GEDAI.Authorization.Api\obj\Debug\net8.0\GEDAI.Authorization.Api.AssemblyInfo.cs
+C:\Users\alber\OneDrive\Documentos\TRABALHO\JOPE TECNOLOGIA\PROJETOS\GEDAI\GEDAI\GEDAI.Authorization.Api\obj\Debug\net8.0\GEDAI.Authorization.Api.csproj.CoreCompileInputs.cache
+C:\Users\alber\OneDrive\Documentos\TRABALHO\JOPE TECNOLOGIA\PROJETOS\GEDAI\GEDAI\GEDAI.Authorization.Api\obj\Debug\net8.0\GEDAI.Authorization.Api.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\alber\OneDrive\Documentos\TRABALHO\JOPE TECNOLOGIA\PROJETOS\GEDAI\GEDAI\GEDAI.Authorization.Api\obj\Debug\net8.0\GEDAI.Authorization.Api.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\alber\OneDrive\Documentos\TRABALHO\JOPE TECNOLOGIA\PROJETOS\GEDAI\GEDAI\GEDAI.Authorization.Api\obj\Debug\net8.0\staticwebassets.build.json
+C:\Users\alber\OneDrive\Documentos\TRABALHO\JOPE TECNOLOGIA\PROJETOS\GEDAI\GEDAI\GEDAI.Authorization.Api\obj\Debug\net8.0\staticwebassets.development.json
+C:\Users\alber\OneDrive\Documentos\TRABALHO\JOPE TECNOLOGIA\PROJETOS\GEDAI\GEDAI\GEDAI.Authorization.Api\obj\Debug\net8.0\staticwebassets\msbuild.GEDAI.Authorization.Api.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\alber\OneDrive\Documentos\TRABALHO\JOPE TECNOLOGIA\PROJETOS\GEDAI\GEDAI\GEDAI.Authorization.Api\obj\Debug\net8.0\staticwebassets\msbuild.build.GEDAI.Authorization.Api.props
+C:\Users\alber\OneDrive\Documentos\TRABALHO\JOPE TECNOLOGIA\PROJETOS\GEDAI\GEDAI\GEDAI.Authorization.Api\obj\Debug\net8.0\staticwebassets\msbuild.buildMultiTargeting.GEDAI.Authorization.Api.props
+C:\Users\alber\OneDrive\Documentos\TRABALHO\JOPE TECNOLOGIA\PROJETOS\GEDAI\GEDAI\GEDAI.Authorization.Api\obj\Debug\net8.0\staticwebassets\msbuild.buildTransitive.GEDAI.Authorization.Api.props
+C:\Users\alber\OneDrive\Documentos\TRABALHO\JOPE TECNOLOGIA\PROJETOS\GEDAI\GEDAI\GEDAI.Authorization.Api\obj\Debug\net8.0\staticwebassets.pack.json
+C:\Users\alber\OneDrive\Documentos\TRABALHO\JOPE TECNOLOGIA\PROJETOS\GEDAI\GEDAI\GEDAI.Authorization.Api\obj\Debug\net8.0\scopedcss\bundle\GEDAI.Authorization.Api.styles.css
+C:\Users\alber\OneDrive\Documentos\TRABALHO\JOPE TECNOLOGIA\PROJETOS\GEDAI\GEDAI\GEDAI.Authorization.Api\obj\Debug\net8.0\GEDAI.Au.4A9691D5.Up2Date
+C:\Users\alber\OneDrive\Documentos\TRABALHO\JOPE TECNOLOGIA\PROJETOS\GEDAI\GEDAI\GEDAI.Authorization.Api\obj\Debug\net8.0\GEDAI.Authorization.Api.dll
+C:\Users\alber\OneDrive\Documentos\TRABALHO\JOPE TECNOLOGIA\PROJETOS\GEDAI\GEDAI\GEDAI.Authorization.Api\obj\Debug\net8.0\refint\GEDAI.Authorization.Api.dll
+C:\Users\alber\OneDrive\Documentos\TRABALHO\JOPE TECNOLOGIA\PROJETOS\GEDAI\GEDAI\GEDAI.Authorization.Api\obj\Debug\net8.0\GEDAI.Authorization.Api.pdb
+C:\Users\alber\OneDrive\Documentos\TRABALHO\JOPE TECNOLOGIA\PROJETOS\GEDAI\GEDAI\GEDAI.Authorization.Api\obj\Debug\net8.0\GEDAI.Authorization.Api.genruntimeconfig.cache
+C:\Users\alber\OneDrive\Documentos\TRABALHO\JOPE TECNOLOGIA\PROJETOS\GEDAI\GEDAI\GEDAI.Authorization.Api\obj\Debug\net8.0\ref\GEDAI.Authorization.Api.dll
+C:\Users\alber\OneDrive\Documentos\TRABALHO\JOPE TECNOLOGIA\PROJETOS\GEDAI\gedai-api\GEDAI.Authorization.Api\bin\Debug\net8.0\appsettings.Development.json
+C:\Users\alber\OneDrive\Documentos\TRABALHO\JOPE TECNOLOGIA\PROJETOS\GEDAI\gedai-api\GEDAI.Authorization.Api\bin\Debug\net8.0\appsettings.json
+C:\Users\alber\OneDrive\Documentos\TRABALHO\JOPE TECNOLOGIA\PROJETOS\GEDAI\gedai-api\GEDAI.Authorization.Api\bin\Debug\net8.0\GEDAI.Authorization.Api.staticwebassets.endpoints.json
+C:\Users\alber\OneDrive\Documentos\TRABALHO\JOPE TECNOLOGIA\PROJETOS\GEDAI\gedai-api\GEDAI.Authorization.Api\bin\Debug\net8.0\GEDAI.Authorization.Api.exe
+C:\Users\alber\OneDrive\Documentos\TRABALHO\JOPE TECNOLOGIA\PROJETOS\GEDAI\gedai-api\GEDAI.Authorization.Api\bin\Debug\net8.0\GEDAI.Authorization.Api.deps.json
+C:\Users\alber\OneDrive\Documentos\TRABALHO\JOPE TECNOLOGIA\PROJETOS\GEDAI\gedai-api\GEDAI.Authorization.Api\bin\Debug\net8.0\GEDAI.Authorization.Api.runtimeconfig.json
+C:\Users\alber\OneDrive\Documentos\TRABALHO\JOPE TECNOLOGIA\PROJETOS\GEDAI\gedai-api\GEDAI.Authorization.Api\bin\Debug\net8.0\GEDAI.Authorization.Api.dll
+C:\Users\alber\OneDrive\Documentos\TRABALHO\JOPE TECNOLOGIA\PROJETOS\GEDAI\gedai-api\GEDAI.Authorization.Api\bin\Debug\net8.0\GEDAI.Authorization.Api.pdb
+C:\Users\alber\OneDrive\Documentos\TRABALHO\JOPE TECNOLOGIA\PROJETOS\GEDAI\gedai-api\GEDAI.Authorization.Api\bin\Debug\net8.0\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+C:\Users\alber\OneDrive\Documentos\TRABALHO\JOPE TECNOLOGIA\PROJETOS\GEDAI\gedai-api\GEDAI.Authorization.Api\bin\Debug\net8.0\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\alber\OneDrive\Documentos\TRABALHO\JOPE TECNOLOGIA\PROJETOS\GEDAI\gedai-api\GEDAI.Authorization.Api\bin\Debug\net8.0\Microsoft.Extensions.Diagnostics.Abstractions.dll
+C:\Users\alber\OneDrive\Documentos\TRABALHO\JOPE TECNOLOGIA\PROJETOS\GEDAI\gedai-api\GEDAI.Authorization.Api\bin\Debug\net8.0\Microsoft.Extensions.Hosting.Abstractions.dll
+C:\Users\alber\OneDrive\Documentos\TRABALHO\JOPE TECNOLOGIA\PROJETOS\GEDAI\gedai-api\GEDAI.Authorization.Api\bin\Debug\net8.0\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\alber\OneDrive\Documentos\TRABALHO\JOPE TECNOLOGIA\PROJETOS\GEDAI\gedai-api\GEDAI.Authorization.Api\bin\Debug\net8.0\Microsoft.Extensions.ObjectPool.dll
+C:\Users\alber\OneDrive\Documentos\TRABALHO\JOPE TECNOLOGIA\PROJETOS\GEDAI\gedai-api\GEDAI.Authorization.Api\bin\Debug\net8.0\Microsoft.Extensions.Options.dll
+C:\Users\alber\OneDrive\Documentos\TRABALHO\JOPE TECNOLOGIA\PROJETOS\GEDAI\gedai-api\GEDAI.Authorization.Api\bin\Debug\net8.0\Microsoft.Extensions.WebEncoders.dll
+C:\Users\alber\OneDrive\Documentos\TRABALHO\JOPE TECNOLOGIA\PROJETOS\GEDAI\gedai-api\GEDAI.Authorization.Api\bin\Debug\net8.0\Microsoft.IdentityModel.Abstractions.dll
+C:\Users\alber\OneDrive\Documentos\TRABALHO\JOPE TECNOLOGIA\PROJETOS\GEDAI\gedai-api\GEDAI.Authorization.Api\bin\Debug\net8.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\alber\OneDrive\Documentos\TRABALHO\JOPE TECNOLOGIA\PROJETOS\GEDAI\gedai-api\GEDAI.Authorization.Api\bin\Debug\net8.0\Microsoft.IdentityModel.Logging.dll
+C:\Users\alber\OneDrive\Documentos\TRABALHO\JOPE TECNOLOGIA\PROJETOS\GEDAI\gedai-api\GEDAI.Authorization.Api\bin\Debug\net8.0\Microsoft.IdentityModel.Protocols.dll
+C:\Users\alber\OneDrive\Documentos\TRABALHO\JOPE TECNOLOGIA\PROJETOS\GEDAI\gedai-api\GEDAI.Authorization.Api\bin\Debug\net8.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\alber\OneDrive\Documentos\TRABALHO\JOPE TECNOLOGIA\PROJETOS\GEDAI\gedai-api\GEDAI.Authorization.Api\bin\Debug\net8.0\Microsoft.IdentityModel.Tokens.dll
+C:\Users\alber\OneDrive\Documentos\TRABALHO\JOPE TECNOLOGIA\PROJETOS\GEDAI\gedai-api\GEDAI.Authorization.Api\bin\Debug\net8.0\Microsoft.OpenApi.dll
+C:\Users\alber\OneDrive\Documentos\TRABALHO\JOPE TECNOLOGIA\PROJETOS\GEDAI\gedai-api\GEDAI.Authorization.Api\bin\Debug\net8.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\alber\OneDrive\Documentos\TRABALHO\JOPE TECNOLOGIA\PROJETOS\GEDAI\gedai-api\GEDAI.Authorization.Api\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\alber\OneDrive\Documentos\TRABALHO\JOPE TECNOLOGIA\PROJETOS\GEDAI\gedai-api\GEDAI.Authorization.Api\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\alber\OneDrive\Documentos\TRABALHO\JOPE TECNOLOGIA\PROJETOS\GEDAI\gedai-api\GEDAI.Authorization.Api\bin\Debug\net8.0\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\alber\OneDrive\Documentos\TRABALHO\JOPE TECNOLOGIA\PROJETOS\GEDAI\gedai-api\GEDAI.Authorization.Api\bin\Debug\net8.0\System.Security.Cryptography.Pkcs.dll
+C:\Users\alber\OneDrive\Documentos\TRABALHO\JOPE TECNOLOGIA\PROJETOS\GEDAI\gedai-api\GEDAI.Authorization.Api\bin\Debug\net8.0\System.Security.Cryptography.Xml.dll
+C:\Users\alber\OneDrive\Documentos\TRABALHO\JOPE TECNOLOGIA\PROJETOS\GEDAI\gedai-api\GEDAI.Authorization.Api\bin\Debug\net8.0\runtimes\win\lib\net8.0\System.Security.Cryptography.Pkcs.dll
+C:\Users\alber\OneDrive\Documentos\TRABALHO\JOPE TECNOLOGIA\PROJETOS\GEDAI\gedai-api\GEDAI.Authorization.Api\obj\Debug\net8.0\GEDAI.Authorization.Api.csproj.AssemblyReference.cache
+C:\Users\alber\OneDrive\Documentos\TRABALHO\JOPE TECNOLOGIA\PROJETOS\GEDAI\gedai-api\GEDAI.Authorization.Api\obj\Debug\net8.0\GEDAI.Authorization.Api.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\alber\OneDrive\Documentos\TRABALHO\JOPE TECNOLOGIA\PROJETOS\GEDAI\gedai-api\GEDAI.Authorization.Api\obj\Debug\net8.0\GEDAI.Authorization.Api.AssemblyInfoInputs.cache
+C:\Users\alber\OneDrive\Documentos\TRABALHO\JOPE TECNOLOGIA\PROJETOS\GEDAI\gedai-api\GEDAI.Authorization.Api\obj\Debug\net8.0\GEDAI.Authorization.Api.AssemblyInfo.cs
+C:\Users\alber\OneDrive\Documentos\TRABALHO\JOPE TECNOLOGIA\PROJETOS\GEDAI\gedai-api\GEDAI.Authorization.Api\obj\Debug\net8.0\GEDAI.Authorization.Api.csproj.CoreCompileInputs.cache
+C:\Users\alber\OneDrive\Documentos\TRABALHO\JOPE TECNOLOGIA\PROJETOS\GEDAI\gedai-api\GEDAI.Authorization.Api\obj\Debug\net8.0\GEDAI.Authorization.Api.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\alber\OneDrive\Documentos\TRABALHO\JOPE TECNOLOGIA\PROJETOS\GEDAI\gedai-api\GEDAI.Authorization.Api\obj\Debug\net8.0\GEDAI.Authorization.Api.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\alber\OneDrive\Documentos\TRABALHO\JOPE TECNOLOGIA\PROJETOS\GEDAI\gedai-api\GEDAI.Authorization.Api\obj\Debug\net8.0\GEDAI.Authorization.Api.sourcelink.json
+C:\Users\alber\OneDrive\Documentos\TRABALHO\JOPE TECNOLOGIA\PROJETOS\GEDAI\gedai-api\GEDAI.Authorization.Api\obj\Debug\net8.0\scopedcss\bundle\GEDAI.Authorization.Api.styles.css
+C:\Users\alber\OneDrive\Documentos\TRABALHO\JOPE TECNOLOGIA\PROJETOS\GEDAI\gedai-api\GEDAI.Authorization.Api\obj\Debug\net8.0\staticwebassets.build.json
+C:\Users\alber\OneDrive\Documentos\TRABALHO\JOPE TECNOLOGIA\PROJETOS\GEDAI\gedai-api\GEDAI.Authorization.Api\obj\Debug\net8.0\staticwebassets.development.json
+C:\Users\alber\OneDrive\Documentos\TRABALHO\JOPE TECNOLOGIA\PROJETOS\GEDAI\gedai-api\GEDAI.Authorization.Api\obj\Debug\net8.0\staticwebassets.build.endpoints.json
+C:\Users\alber\OneDrive\Documentos\TRABALHO\JOPE TECNOLOGIA\PROJETOS\GEDAI\gedai-api\GEDAI.Authorization.Api\obj\Debug\net8.0\staticwebassets.upToDateCheck.txt
+C:\Users\alber\OneDrive\Documentos\TRABALHO\JOPE TECNOLOGIA\PROJETOS\GEDAI\gedai-api\GEDAI.Authorization.Api\obj\Debug\net8.0\GEDAI.Au.4A9691D5.Up2Date
+C:\Users\alber\OneDrive\Documentos\TRABALHO\JOPE TECNOLOGIA\PROJETOS\GEDAI\gedai-api\GEDAI.Authorization.Api\obj\Debug\net8.0\GEDAI.Authorization.Api.dll
+C:\Users\alber\OneDrive\Documentos\TRABALHO\JOPE TECNOLOGIA\PROJETOS\GEDAI\gedai-api\GEDAI.Authorization.Api\obj\Debug\net8.0\refint\GEDAI.Authorization.Api.dll
+C:\Users\alber\OneDrive\Documentos\TRABALHO\JOPE TECNOLOGIA\PROJETOS\GEDAI\gedai-api\GEDAI.Authorization.Api\obj\Debug\net8.0\GEDAI.Authorization.Api.pdb
+C:\Users\alber\OneDrive\Documentos\TRABALHO\JOPE TECNOLOGIA\PROJETOS\GEDAI\gedai-api\GEDAI.Authorization.Api\obj\Debug\net8.0\GEDAI.Authorization.Api.genruntimeconfig.cache
+C:\Users\alber\OneDrive\Documentos\TRABALHO\JOPE TECNOLOGIA\PROJETOS\GEDAI\gedai-api\GEDAI.Authorization.Api\obj\Debug\net8.0\ref\GEDAI.Authorization.Api.dll
+C:\Users\alber\OneDrive\Documentos\TRABALHO\JOPE TECNOLOGIA\PROJETOS\GEDAI\gedai-api\GEDAI.Authorization.Api\obj\Debug\net8.0\staticwebassets.build.json.cache
+C:\Users\alber\OneDrive\Documentos\ESTUDOS\MESTRADO\SISTEMAS DISTRIBUIDOS\PROJETOS\SISTEMA DISTRIBUIDO COM MULTITHREADING\gedai-api\gedai-api\GEDAI.Authorization.Api\bin\Debug\net8.0\appsettings.Development.json
+C:\Users\alber\OneDrive\Documentos\ESTUDOS\MESTRADO\SISTEMAS DISTRIBUIDOS\PROJETOS\SISTEMA DISTRIBUIDO COM MULTITHREADING\gedai-api\gedai-api\GEDAI.Authorization.Api\bin\Debug\net8.0\appsettings.json
+C:\Users\alber\OneDrive\Documentos\ESTUDOS\MESTRADO\SISTEMAS DISTRIBUIDOS\PROJETOS\SISTEMA DISTRIBUIDO COM MULTITHREADING\gedai-api\gedai-api\GEDAI.Authorization.Api\bin\Debug\net8.0\GEDAI.Authorization.Api.staticwebassets.endpoints.json
+C:\Users\alber\OneDrive\Documentos\ESTUDOS\MESTRADO\SISTEMAS DISTRIBUIDOS\PROJETOS\SISTEMA DISTRIBUIDO COM MULTITHREADING\gedai-api\gedai-api\GEDAI.Authorization.Api\bin\Debug\net8.0\GEDAI.Authorization.Api.exe
+C:\Users\alber\OneDrive\Documentos\ESTUDOS\MESTRADO\SISTEMAS DISTRIBUIDOS\PROJETOS\SISTEMA DISTRIBUIDO COM MULTITHREADING\gedai-api\gedai-api\GEDAI.Authorization.Api\bin\Debug\net8.0\GEDAI.Authorization.Api.deps.json
+C:\Users\alber\OneDrive\Documentos\ESTUDOS\MESTRADO\SISTEMAS DISTRIBUIDOS\PROJETOS\SISTEMA DISTRIBUIDO COM MULTITHREADING\gedai-api\gedai-api\GEDAI.Authorization.Api\bin\Debug\net8.0\GEDAI.Authorization.Api.runtimeconfig.json
+C:\Users\alber\OneDrive\Documentos\ESTUDOS\MESTRADO\SISTEMAS DISTRIBUIDOS\PROJETOS\SISTEMA DISTRIBUIDO COM MULTITHREADING\gedai-api\gedai-api\GEDAI.Authorization.Api\bin\Debug\net8.0\GEDAI.Authorization.Api.dll
+C:\Users\alber\OneDrive\Documentos\ESTUDOS\MESTRADO\SISTEMAS DISTRIBUIDOS\PROJETOS\SISTEMA DISTRIBUIDO COM MULTITHREADING\gedai-api\gedai-api\GEDAI.Authorization.Api\bin\Debug\net8.0\GEDAI.Authorization.Api.pdb
+C:\Users\alber\OneDrive\Documentos\ESTUDOS\MESTRADO\SISTEMAS DISTRIBUIDOS\PROJETOS\SISTEMA DISTRIBUIDO COM MULTITHREADING\gedai-api\gedai-api\GEDAI.Authorization.Api\bin\Debug\net8.0\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+C:\Users\alber\OneDrive\Documentos\ESTUDOS\MESTRADO\SISTEMAS DISTRIBUIDOS\PROJETOS\SISTEMA DISTRIBUIDO COM MULTITHREADING\gedai-api\gedai-api\GEDAI.Authorization.Api\bin\Debug\net8.0\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\alber\OneDrive\Documentos\ESTUDOS\MESTRADO\SISTEMAS DISTRIBUIDOS\PROJETOS\SISTEMA DISTRIBUIDO COM MULTITHREADING\gedai-api\gedai-api\GEDAI.Authorization.Api\bin\Debug\net8.0\Microsoft.Extensions.Diagnostics.Abstractions.dll
+C:\Users\alber\OneDrive\Documentos\ESTUDOS\MESTRADO\SISTEMAS DISTRIBUIDOS\PROJETOS\SISTEMA DISTRIBUIDO COM MULTITHREADING\gedai-api\gedai-api\GEDAI.Authorization.Api\bin\Debug\net8.0\Microsoft.Extensions.Hosting.Abstractions.dll
+C:\Users\alber\OneDrive\Documentos\ESTUDOS\MESTRADO\SISTEMAS DISTRIBUIDOS\PROJETOS\SISTEMA DISTRIBUIDO COM MULTITHREADING\gedai-api\gedai-api\GEDAI.Authorization.Api\bin\Debug\net8.0\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\alber\OneDrive\Documentos\ESTUDOS\MESTRADO\SISTEMAS DISTRIBUIDOS\PROJETOS\SISTEMA DISTRIBUIDO COM MULTITHREADING\gedai-api\gedai-api\GEDAI.Authorization.Api\bin\Debug\net8.0\Microsoft.Extensions.ObjectPool.dll
+C:\Users\alber\OneDrive\Documentos\ESTUDOS\MESTRADO\SISTEMAS DISTRIBUIDOS\PROJETOS\SISTEMA DISTRIBUIDO COM MULTITHREADING\gedai-api\gedai-api\GEDAI.Authorization.Api\bin\Debug\net8.0\Microsoft.Extensions.Options.dll
+C:\Users\alber\OneDrive\Documentos\ESTUDOS\MESTRADO\SISTEMAS DISTRIBUIDOS\PROJETOS\SISTEMA DISTRIBUIDO COM MULTITHREADING\gedai-api\gedai-api\GEDAI.Authorization.Api\bin\Debug\net8.0\Microsoft.Extensions.WebEncoders.dll
+C:\Users\alber\OneDrive\Documentos\ESTUDOS\MESTRADO\SISTEMAS DISTRIBUIDOS\PROJETOS\SISTEMA DISTRIBUIDO COM MULTITHREADING\gedai-api\gedai-api\GEDAI.Authorization.Api\bin\Debug\net8.0\Microsoft.IdentityModel.Abstractions.dll
+C:\Users\alber\OneDrive\Documentos\ESTUDOS\MESTRADO\SISTEMAS DISTRIBUIDOS\PROJETOS\SISTEMA DISTRIBUIDO COM MULTITHREADING\gedai-api\gedai-api\GEDAI.Authorization.Api\bin\Debug\net8.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\alber\OneDrive\Documentos\ESTUDOS\MESTRADO\SISTEMAS DISTRIBUIDOS\PROJETOS\SISTEMA DISTRIBUIDO COM MULTITHREADING\gedai-api\gedai-api\GEDAI.Authorization.Api\bin\Debug\net8.0\Microsoft.IdentityModel.Logging.dll
+C:\Users\alber\OneDrive\Documentos\ESTUDOS\MESTRADO\SISTEMAS DISTRIBUIDOS\PROJETOS\SISTEMA DISTRIBUIDO COM MULTITHREADING\gedai-api\gedai-api\GEDAI.Authorization.Api\bin\Debug\net8.0\Microsoft.IdentityModel.Protocols.dll
+C:\Users\alber\OneDrive\Documentos\ESTUDOS\MESTRADO\SISTEMAS DISTRIBUIDOS\PROJETOS\SISTEMA DISTRIBUIDO COM MULTITHREADING\gedai-api\gedai-api\GEDAI.Authorization.Api\bin\Debug\net8.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\alber\OneDrive\Documentos\ESTUDOS\MESTRADO\SISTEMAS DISTRIBUIDOS\PROJETOS\SISTEMA DISTRIBUIDO COM MULTITHREADING\gedai-api\gedai-api\GEDAI.Authorization.Api\bin\Debug\net8.0\Microsoft.IdentityModel.Tokens.dll
+C:\Users\alber\OneDrive\Documentos\ESTUDOS\MESTRADO\SISTEMAS DISTRIBUIDOS\PROJETOS\SISTEMA DISTRIBUIDO COM MULTITHREADING\gedai-api\gedai-api\GEDAI.Authorization.Api\bin\Debug\net8.0\Microsoft.OpenApi.dll
+C:\Users\alber\OneDrive\Documentos\ESTUDOS\MESTRADO\SISTEMAS DISTRIBUIDOS\PROJETOS\SISTEMA DISTRIBUIDO COM MULTITHREADING\gedai-api\gedai-api\GEDAI.Authorization.Api\bin\Debug\net8.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\alber\OneDrive\Documentos\ESTUDOS\MESTRADO\SISTEMAS DISTRIBUIDOS\PROJETOS\SISTEMA DISTRIBUIDO COM MULTITHREADING\gedai-api\gedai-api\GEDAI.Authorization.Api\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\alber\OneDrive\Documentos\ESTUDOS\MESTRADO\SISTEMAS DISTRIBUIDOS\PROJETOS\SISTEMA DISTRIBUIDO COM MULTITHREADING\gedai-api\gedai-api\GEDAI.Authorization.Api\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\alber\OneDrive\Documentos\ESTUDOS\MESTRADO\SISTEMAS DISTRIBUIDOS\PROJETOS\SISTEMA DISTRIBUIDO COM MULTITHREADING\gedai-api\gedai-api\GEDAI.Authorization.Api\bin\Debug\net8.0\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\alber\OneDrive\Documentos\ESTUDOS\MESTRADO\SISTEMAS DISTRIBUIDOS\PROJETOS\SISTEMA DISTRIBUIDO COM MULTITHREADING\gedai-api\gedai-api\GEDAI.Authorization.Api\bin\Debug\net8.0\System.Security.Cryptography.Pkcs.dll
+C:\Users\alber\OneDrive\Documentos\ESTUDOS\MESTRADO\SISTEMAS DISTRIBUIDOS\PROJETOS\SISTEMA DISTRIBUIDO COM MULTITHREADING\gedai-api\gedai-api\GEDAI.Authorization.Api\bin\Debug\net8.0\System.Security.Cryptography.Xml.dll
+C:\Users\alber\OneDrive\Documentos\ESTUDOS\MESTRADO\SISTEMAS DISTRIBUIDOS\PROJETOS\SISTEMA DISTRIBUIDO COM MULTITHREADING\gedai-api\gedai-api\GEDAI.Authorization.Api\bin\Debug\net8.0\runtimes\win\lib\net8.0\System.Security.Cryptography.Pkcs.dll
+C:\Users\alber\OneDrive\Documentos\ESTUDOS\MESTRADO\SISTEMAS DISTRIBUIDOS\PROJETOS\SISTEMA DISTRIBUIDO COM MULTITHREADING\gedai-api\gedai-api\GEDAI.Authorization.Api\obj\Debug\net8.0\GEDAI.Authorization.Api.csproj.AssemblyReference.cache
+C:\Users\alber\OneDrive\Documentos\ESTUDOS\MESTRADO\SISTEMAS DISTRIBUIDOS\PROJETOS\SISTEMA DISTRIBUIDO COM MULTITHREADING\gedai-api\gedai-api\GEDAI.Authorization.Api\obj\Debug\net8.0\rpswa.dswa.cache.json
+C:\Users\alber\OneDrive\Documentos\ESTUDOS\MESTRADO\SISTEMAS DISTRIBUIDOS\PROJETOS\SISTEMA DISTRIBUIDO COM MULTITHREADING\gedai-api\gedai-api\GEDAI.Authorization.Api\obj\Debug\net8.0\GEDAI.Authorization.Api.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\alber\OneDrive\Documentos\ESTUDOS\MESTRADO\SISTEMAS DISTRIBUIDOS\PROJETOS\SISTEMA DISTRIBUIDO COM MULTITHREADING\gedai-api\gedai-api\GEDAI.Authorization.Api\obj\Debug\net8.0\GEDAI.Authorization.Api.AssemblyInfoInputs.cache
+C:\Users\alber\OneDrive\Documentos\ESTUDOS\MESTRADO\SISTEMAS DISTRIBUIDOS\PROJETOS\SISTEMA DISTRIBUIDO COM MULTITHREADING\gedai-api\gedai-api\GEDAI.Authorization.Api\obj\Debug\net8.0\GEDAI.Authorization.Api.AssemblyInfo.cs
+C:\Users\alber\OneDrive\Documentos\ESTUDOS\MESTRADO\SISTEMAS DISTRIBUIDOS\PROJETOS\SISTEMA DISTRIBUIDO COM MULTITHREADING\gedai-api\gedai-api\GEDAI.Authorization.Api\obj\Debug\net8.0\GEDAI.Authorization.Api.csproj.CoreCompileInputs.cache
+C:\Users\alber\OneDrive\Documentos\ESTUDOS\MESTRADO\SISTEMAS DISTRIBUIDOS\PROJETOS\SISTEMA DISTRIBUIDO COM MULTITHREADING\gedai-api\gedai-api\GEDAI.Authorization.Api\obj\Debug\net8.0\GEDAI.Authorization.Api.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\alber\OneDrive\Documentos\ESTUDOS\MESTRADO\SISTEMAS DISTRIBUIDOS\PROJETOS\SISTEMA DISTRIBUIDO COM MULTITHREADING\gedai-api\gedai-api\GEDAI.Authorization.Api\obj\Debug\net8.0\GEDAI.Authorization.Api.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\alber\OneDrive\Documentos\ESTUDOS\MESTRADO\SISTEMAS DISTRIBUIDOS\PROJETOS\SISTEMA DISTRIBUIDO COM MULTITHREADING\gedai-api\gedai-api\GEDAI.Authorization.Api\obj\Debug\net8.0\GEDAI.Authorization.Api.sourcelink.json
+C:\Users\alber\OneDrive\Documentos\ESTUDOS\MESTRADO\SISTEMAS DISTRIBUIDOS\PROJETOS\SISTEMA DISTRIBUIDO COM MULTITHREADING\gedai-api\gedai-api\GEDAI.Authorization.Api\obj\Debug\net8.0\rjimswa.dswa.cache.json
+C:\Users\alber\OneDrive\Documentos\ESTUDOS\MESTRADO\SISTEMAS DISTRIBUIDOS\PROJETOS\SISTEMA DISTRIBUIDO COM MULTITHREADING\gedai-api\gedai-api\GEDAI.Authorization.Api\obj\Debug\net8.0\rjsmrazor.dswa.cache.json
+C:\Users\alber\OneDrive\Documentos\ESTUDOS\MESTRADO\SISTEMAS DISTRIBUIDOS\PROJETOS\SISTEMA DISTRIBUIDO COM MULTITHREADING\gedai-api\gedai-api\GEDAI.Authorization.Api\obj\Debug\net8.0\rjsmcshtml.dswa.cache.json
+C:\Users\alber\OneDrive\Documentos\ESTUDOS\MESTRADO\SISTEMAS DISTRIBUIDOS\PROJETOS\SISTEMA DISTRIBUIDO COM MULTITHREADING\gedai-api\gedai-api\GEDAI.Authorization.Api\obj\Debug\net8.0\scopedcss\bundle\GEDAI.Authorization.Api.styles.css
+C:\Users\alber\OneDrive\Documentos\ESTUDOS\MESTRADO\SISTEMAS DISTRIBUIDOS\PROJETOS\SISTEMA DISTRIBUIDO COM MULTITHREADING\gedai-api\gedai-api\GEDAI.Authorization.Api\obj\Debug\net8.0\staticwebassets.build.json
+C:\Users\alber\OneDrive\Documentos\ESTUDOS\MESTRADO\SISTEMAS DISTRIBUIDOS\PROJETOS\SISTEMA DISTRIBUIDO COM MULTITHREADING\gedai-api\gedai-api\GEDAI.Authorization.Api\obj\Debug\net8.0\staticwebassets.build.json.cache
+C:\Users\alber\OneDrive\Documentos\ESTUDOS\MESTRADO\SISTEMAS DISTRIBUIDOS\PROJETOS\SISTEMA DISTRIBUIDO COM MULTITHREADING\gedai-api\gedai-api\GEDAI.Authorization.Api\obj\Debug\net8.0\staticwebassets.development.json
+C:\Users\alber\OneDrive\Documentos\ESTUDOS\MESTRADO\SISTEMAS DISTRIBUIDOS\PROJETOS\SISTEMA DISTRIBUIDO COM MULTITHREADING\gedai-api\gedai-api\GEDAI.Authorization.Api\obj\Debug\net8.0\staticwebassets.build.endpoints.json
+C:\Users\alber\OneDrive\Documentos\ESTUDOS\MESTRADO\SISTEMAS DISTRIBUIDOS\PROJETOS\SISTEMA DISTRIBUIDO COM MULTITHREADING\gedai-api\gedai-api\GEDAI.Authorization.Api\obj\Debug\net8.0\staticwebassets.upToDateCheck.txt
+C:\Users\alber\OneDrive\Documentos\ESTUDOS\MESTRADO\SISTEMAS DISTRIBUIDOS\PROJETOS\SISTEMA DISTRIBUIDO COM MULTITHREADING\gedai-api\gedai-api\GEDAI.Authorization.Api\obj\Debug\net8.0\GEDAI.Au.4A9691D5.Up2Date
+C:\Users\alber\OneDrive\Documentos\ESTUDOS\MESTRADO\SISTEMAS DISTRIBUIDOS\PROJETOS\SISTEMA DISTRIBUIDO COM MULTITHREADING\gedai-api\gedai-api\GEDAI.Authorization.Api\obj\Debug\net8.0\GEDAI.Authorization.Api.dll
+C:\Users\alber\OneDrive\Documentos\ESTUDOS\MESTRADO\SISTEMAS DISTRIBUIDOS\PROJETOS\SISTEMA DISTRIBUIDO COM MULTITHREADING\gedai-api\gedai-api\GEDAI.Authorization.Api\obj\Debug\net8.0\refint\GEDAI.Authorization.Api.dll
+C:\Users\alber\OneDrive\Documentos\ESTUDOS\MESTRADO\SISTEMAS DISTRIBUIDOS\PROJETOS\SISTEMA DISTRIBUIDO COM MULTITHREADING\gedai-api\gedai-api\GEDAI.Authorization.Api\obj\Debug\net8.0\GEDAI.Authorization.Api.pdb
+C:\Users\alber\OneDrive\Documentos\ESTUDOS\MESTRADO\SISTEMAS DISTRIBUIDOS\PROJETOS\SISTEMA DISTRIBUIDO COM MULTITHREADING\gedai-api\gedai-api\GEDAI.Authorization.Api\obj\Debug\net8.0\GEDAI.Authorization.Api.genruntimeconfig.cache
+C:\Users\alber\OneDrive\Documentos\ESTUDOS\MESTRADO\SISTEMAS DISTRIBUIDOS\PROJETOS\SISTEMA DISTRIBUIDO COM MULTITHREADING\gedai-api\gedai-api\GEDAI.Authorization.Api\obj\Debug\net8.0\ref\GEDAI.Authorization.Api.dll
+C:\Users\alber\OneDrive\Documentos\ESTUDOS\MESTRADO\SISTEMAS DISTRIBUIDOS\PROJETOS\SD-PPGCC-2025\Albert\gedai-api\gedai-api\GEDAI.Authorization.Api\bin\Debug\net8.0\appsettings.Development.json
+C:\Users\alber\OneDrive\Documentos\ESTUDOS\MESTRADO\SISTEMAS DISTRIBUIDOS\PROJETOS\SD-PPGCC-2025\Albert\gedai-api\gedai-api\GEDAI.Authorization.Api\bin\Debug\net8.0\appsettings.json
+C:\Users\alber\OneDrive\Documentos\ESTUDOS\MESTRADO\SISTEMAS DISTRIBUIDOS\PROJETOS\SD-PPGCC-2025\Albert\gedai-api\gedai-api\GEDAI.Authorization.Api\bin\Debug\net8.0\GEDAI.Authorization.Api.staticwebassets.endpoints.json
+C:\Users\alber\OneDrive\Documentos\ESTUDOS\MESTRADO\SISTEMAS DISTRIBUIDOS\PROJETOS\SD-PPGCC-2025\Albert\gedai-api\gedai-api\GEDAI.Authorization.Api\bin\Debug\net8.0\GEDAI.Authorization.Api.exe
+C:\Users\alber\OneDrive\Documentos\ESTUDOS\MESTRADO\SISTEMAS DISTRIBUIDOS\PROJETOS\SD-PPGCC-2025\Albert\gedai-api\gedai-api\GEDAI.Authorization.Api\bin\Debug\net8.0\GEDAI.Authorization.Api.deps.json
+C:\Users\alber\OneDrive\Documentos\ESTUDOS\MESTRADO\SISTEMAS DISTRIBUIDOS\PROJETOS\SD-PPGCC-2025\Albert\gedai-api\gedai-api\GEDAI.Authorization.Api\bin\Debug\net8.0\GEDAI.Authorization.Api.runtimeconfig.json
+C:\Users\alber\OneDrive\Documentos\ESTUDOS\MESTRADO\SISTEMAS DISTRIBUIDOS\PROJETOS\SD-PPGCC-2025\Albert\gedai-api\gedai-api\GEDAI.Authorization.Api\bin\Debug\net8.0\GEDAI.Authorization.Api.dll
+C:\Users\alber\OneDrive\Documentos\ESTUDOS\MESTRADO\SISTEMAS DISTRIBUIDOS\PROJETOS\SD-PPGCC-2025\Albert\gedai-api\gedai-api\GEDAI.Authorization.Api\bin\Debug\net8.0\GEDAI.Authorization.Api.pdb
+C:\Users\alber\OneDrive\Documentos\ESTUDOS\MESTRADO\SISTEMAS DISTRIBUIDOS\PROJETOS\SD-PPGCC-2025\Albert\gedai-api\gedai-api\GEDAI.Authorization.Api\bin\Debug\net8.0\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+C:\Users\alber\OneDrive\Documentos\ESTUDOS\MESTRADO\SISTEMAS DISTRIBUIDOS\PROJETOS\SD-PPGCC-2025\Albert\gedai-api\gedai-api\GEDAI.Authorization.Api\bin\Debug\net8.0\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\alber\OneDrive\Documentos\ESTUDOS\MESTRADO\SISTEMAS DISTRIBUIDOS\PROJETOS\SD-PPGCC-2025\Albert\gedai-api\gedai-api\GEDAI.Authorization.Api\bin\Debug\net8.0\Microsoft.Extensions.Diagnostics.Abstractions.dll
+C:\Users\alber\OneDrive\Documentos\ESTUDOS\MESTRADO\SISTEMAS DISTRIBUIDOS\PROJETOS\SD-PPGCC-2025\Albert\gedai-api\gedai-api\GEDAI.Authorization.Api\bin\Debug\net8.0\Microsoft.Extensions.Hosting.Abstractions.dll
+C:\Users\alber\OneDrive\Documentos\ESTUDOS\MESTRADO\SISTEMAS DISTRIBUIDOS\PROJETOS\SD-PPGCC-2025\Albert\gedai-api\gedai-api\GEDAI.Authorization.Api\bin\Debug\net8.0\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\alber\OneDrive\Documentos\ESTUDOS\MESTRADO\SISTEMAS DISTRIBUIDOS\PROJETOS\SD-PPGCC-2025\Albert\gedai-api\gedai-api\GEDAI.Authorization.Api\bin\Debug\net8.0\Microsoft.Extensions.ObjectPool.dll
+C:\Users\alber\OneDrive\Documentos\ESTUDOS\MESTRADO\SISTEMAS DISTRIBUIDOS\PROJETOS\SD-PPGCC-2025\Albert\gedai-api\gedai-api\GEDAI.Authorization.Api\bin\Debug\net8.0\Microsoft.Extensions.Options.dll
+C:\Users\alber\OneDrive\Documentos\ESTUDOS\MESTRADO\SISTEMAS DISTRIBUIDOS\PROJETOS\SD-PPGCC-2025\Albert\gedai-api\gedai-api\GEDAI.Authorization.Api\bin\Debug\net8.0\Microsoft.Extensions.WebEncoders.dll
+C:\Users\alber\OneDrive\Documentos\ESTUDOS\MESTRADO\SISTEMAS DISTRIBUIDOS\PROJETOS\SD-PPGCC-2025\Albert\gedai-api\gedai-api\GEDAI.Authorization.Api\bin\Debug\net8.0\Microsoft.IdentityModel.Abstractions.dll
+C:\Users\alber\OneDrive\Documentos\ESTUDOS\MESTRADO\SISTEMAS DISTRIBUIDOS\PROJETOS\SD-PPGCC-2025\Albert\gedai-api\gedai-api\GEDAI.Authorization.Api\bin\Debug\net8.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\alber\OneDrive\Documentos\ESTUDOS\MESTRADO\SISTEMAS DISTRIBUIDOS\PROJETOS\SD-PPGCC-2025\Albert\gedai-api\gedai-api\GEDAI.Authorization.Api\bin\Debug\net8.0\Microsoft.IdentityModel.Logging.dll
+C:\Users\alber\OneDrive\Documentos\ESTUDOS\MESTRADO\SISTEMAS DISTRIBUIDOS\PROJETOS\SD-PPGCC-2025\Albert\gedai-api\gedai-api\GEDAI.Authorization.Api\bin\Debug\net8.0\Microsoft.IdentityModel.Protocols.dll
+C:\Users\alber\OneDrive\Documentos\ESTUDOS\MESTRADO\SISTEMAS DISTRIBUIDOS\PROJETOS\SD-PPGCC-2025\Albert\gedai-api\gedai-api\GEDAI.Authorization.Api\bin\Debug\net8.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\alber\OneDrive\Documentos\ESTUDOS\MESTRADO\SISTEMAS DISTRIBUIDOS\PROJETOS\SD-PPGCC-2025\Albert\gedai-api\gedai-api\GEDAI.Authorization.Api\bin\Debug\net8.0\Microsoft.IdentityModel.Tokens.dll
+C:\Users\alber\OneDrive\Documentos\ESTUDOS\MESTRADO\SISTEMAS DISTRIBUIDOS\PROJETOS\SD-PPGCC-2025\Albert\gedai-api\gedai-api\GEDAI.Authorization.Api\bin\Debug\net8.0\Microsoft.OpenApi.dll
+C:\Users\alber\OneDrive\Documentos\ESTUDOS\MESTRADO\SISTEMAS DISTRIBUIDOS\PROJETOS\SD-PPGCC-2025\Albert\gedai-api\gedai-api\GEDAI.Authorization.Api\bin\Debug\net8.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\alber\OneDrive\Documentos\ESTUDOS\MESTRADO\SISTEMAS DISTRIBUIDOS\PROJETOS\SD-PPGCC-2025\Albert\gedai-api\gedai-api\GEDAI.Authorization.Api\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\alber\OneDrive\Documentos\ESTUDOS\MESTRADO\SISTEMAS DISTRIBUIDOS\PROJETOS\SD-PPGCC-2025\Albert\gedai-api\gedai-api\GEDAI.Authorization.Api\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\alber\OneDrive\Documentos\ESTUDOS\MESTRADO\SISTEMAS DISTRIBUIDOS\PROJETOS\SD-PPGCC-2025\Albert\gedai-api\gedai-api\GEDAI.Authorization.Api\bin\Debug\net8.0\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\alber\OneDrive\Documentos\ESTUDOS\MESTRADO\SISTEMAS DISTRIBUIDOS\PROJETOS\SD-PPGCC-2025\Albert\gedai-api\gedai-api\GEDAI.Authorization.Api\bin\Debug\net8.0\System.Security.Cryptography.Pkcs.dll
+C:\Users\alber\OneDrive\Documentos\ESTUDOS\MESTRADO\SISTEMAS DISTRIBUIDOS\PROJETOS\SD-PPGCC-2025\Albert\gedai-api\gedai-api\GEDAI.Authorization.Api\bin\Debug\net8.0\System.Security.Cryptography.Xml.dll
+C:\Users\alber\OneDrive\Documentos\ESTUDOS\MESTRADO\SISTEMAS DISTRIBUIDOS\PROJETOS\SD-PPGCC-2025\Albert\gedai-api\gedai-api\GEDAI.Authorization.Api\bin\Debug\net8.0\runtimes\win\lib\net8.0\System.Security.Cryptography.Pkcs.dll
+C:\Users\alber\OneDrive\Documentos\ESTUDOS\MESTRADO\SISTEMAS DISTRIBUIDOS\PROJETOS\SD-PPGCC-2025\Albert\gedai-api\gedai-api\GEDAI.Authorization.Api\obj\Debug\net8.0\GEDAI.Authorization.Api.csproj.AssemblyReference.cache
+C:\Users\alber\OneDrive\Documentos\ESTUDOS\MESTRADO\SISTEMAS DISTRIBUIDOS\PROJETOS\SD-PPGCC-2025\Albert\gedai-api\gedai-api\GEDAI.Authorization.Api\obj\Debug\net8.0\rpswa.dswa.cache.json
+C:\Users\alber\OneDrive\Documentos\ESTUDOS\MESTRADO\SISTEMAS DISTRIBUIDOS\PROJETOS\SD-PPGCC-2025\Albert\gedai-api\gedai-api\GEDAI.Authorization.Api\obj\Debug\net8.0\GEDAI.Authorization.Api.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\alber\OneDrive\Documentos\ESTUDOS\MESTRADO\SISTEMAS DISTRIBUIDOS\PROJETOS\SD-PPGCC-2025\Albert\gedai-api\gedai-api\GEDAI.Authorization.Api\obj\Debug\net8.0\GEDAI.Authorization.Api.AssemblyInfoInputs.cache
+C:\Users\alber\OneDrive\Documentos\ESTUDOS\MESTRADO\SISTEMAS DISTRIBUIDOS\PROJETOS\SD-PPGCC-2025\Albert\gedai-api\gedai-api\GEDAI.Authorization.Api\obj\Debug\net8.0\GEDAI.Authorization.Api.AssemblyInfo.cs
+C:\Users\alber\OneDrive\Documentos\ESTUDOS\MESTRADO\SISTEMAS DISTRIBUIDOS\PROJETOS\SD-PPGCC-2025\Albert\gedai-api\gedai-api\GEDAI.Authorization.Api\obj\Debug\net8.0\GEDAI.Authorization.Api.csproj.CoreCompileInputs.cache
+C:\Users\alber\OneDrive\Documentos\ESTUDOS\MESTRADO\SISTEMAS DISTRIBUIDOS\PROJETOS\SD-PPGCC-2025\Albert\gedai-api\gedai-api\GEDAI.Authorization.Api\obj\Debug\net8.0\GEDAI.Authorization.Api.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\alber\OneDrive\Documentos\ESTUDOS\MESTRADO\SISTEMAS DISTRIBUIDOS\PROJETOS\SD-PPGCC-2025\Albert\gedai-api\gedai-api\GEDAI.Authorization.Api\obj\Debug\net8.0\GEDAI.Authorization.Api.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\alber\OneDrive\Documentos\ESTUDOS\MESTRADO\SISTEMAS DISTRIBUIDOS\PROJETOS\SD-PPGCC-2025\Albert\gedai-api\gedai-api\GEDAI.Authorization.Api\obj\Debug\net8.0\GEDAI.Authorization.Api.sourcelink.json
+C:\Users\alber\OneDrive\Documentos\ESTUDOS\MESTRADO\SISTEMAS DISTRIBUIDOS\PROJETOS\SD-PPGCC-2025\Albert\gedai-api\gedai-api\GEDAI.Authorization.Api\obj\Debug\net8.0\rjimswa.dswa.cache.json
+C:\Users\alber\OneDrive\Documentos\ESTUDOS\MESTRADO\SISTEMAS DISTRIBUIDOS\PROJETOS\SD-PPGCC-2025\Albert\gedai-api\gedai-api\GEDAI.Authorization.Api\obj\Debug\net8.0\rjsmrazor.dswa.cache.json
+C:\Users\alber\OneDrive\Documentos\ESTUDOS\MESTRADO\SISTEMAS DISTRIBUIDOS\PROJETOS\SD-PPGCC-2025\Albert\gedai-api\gedai-api\GEDAI.Authorization.Api\obj\Debug\net8.0\rjsmcshtml.dswa.cache.json
+C:\Users\alber\OneDrive\Documentos\ESTUDOS\MESTRADO\SISTEMAS DISTRIBUIDOS\PROJETOS\SD-PPGCC-2025\Albert\gedai-api\gedai-api\GEDAI.Authorization.Api\obj\Debug\net8.0\scopedcss\bundle\GEDAI.Authorization.Api.styles.css
+C:\Users\alber\OneDrive\Documentos\ESTUDOS\MESTRADO\SISTEMAS DISTRIBUIDOS\PROJETOS\SD-PPGCC-2025\Albert\gedai-api\gedai-api\GEDAI.Authorization.Api\obj\Debug\net8.0\staticwebassets.build.json
+C:\Users\alber\OneDrive\Documentos\ESTUDOS\MESTRADO\SISTEMAS DISTRIBUIDOS\PROJETOS\SD-PPGCC-2025\Albert\gedai-api\gedai-api\GEDAI.Authorization.Api\obj\Debug\net8.0\staticwebassets.build.json.cache
+C:\Users\alber\OneDrive\Documentos\ESTUDOS\MESTRADO\SISTEMAS DISTRIBUIDOS\PROJETOS\SD-PPGCC-2025\Albert\gedai-api\gedai-api\GEDAI.Authorization.Api\obj\Debug\net8.0\staticwebassets.development.json
+C:\Users\alber\OneDrive\Documentos\ESTUDOS\MESTRADO\SISTEMAS DISTRIBUIDOS\PROJETOS\SD-PPGCC-2025\Albert\gedai-api\gedai-api\GEDAI.Authorization.Api\obj\Debug\net8.0\staticwebassets.build.endpoints.json
+C:\Users\alber\OneDrive\Documentos\ESTUDOS\MESTRADO\SISTEMAS DISTRIBUIDOS\PROJETOS\SD-PPGCC-2025\Albert\gedai-api\gedai-api\GEDAI.Authorization.Api\obj\Debug\net8.0\staticwebassets.upToDateCheck.txt
+C:\Users\alber\OneDrive\Documentos\ESTUDOS\MESTRADO\SISTEMAS DISTRIBUIDOS\PROJETOS\SD-PPGCC-2025\Albert\gedai-api\gedai-api\GEDAI.Authorization.Api\obj\Debug\net8.0\GEDAI.Au.4A9691D5.Up2Date
+C:\Users\alber\OneDrive\Documentos\ESTUDOS\MESTRADO\SISTEMAS DISTRIBUIDOS\PROJETOS\SD-PPGCC-2025\Albert\gedai-api\gedai-api\GEDAI.Authorization.Api\obj\Debug\net8.0\GEDAI.Authorization.Api.dll
+C:\Users\alber\OneDrive\Documentos\ESTUDOS\MESTRADO\SISTEMAS DISTRIBUIDOS\PROJETOS\SD-PPGCC-2025\Albert\gedai-api\gedai-api\GEDAI.Authorization.Api\obj\Debug\net8.0\refint\GEDAI.Authorization.Api.dll
+C:\Users\alber\OneDrive\Documentos\ESTUDOS\MESTRADO\SISTEMAS DISTRIBUIDOS\PROJETOS\SD-PPGCC-2025\Albert\gedai-api\gedai-api\GEDAI.Authorization.Api\obj\Debug\net8.0\GEDAI.Authorization.Api.pdb
+C:\Users\alber\OneDrive\Documentos\ESTUDOS\MESTRADO\SISTEMAS DISTRIBUIDOS\PROJETOS\SD-PPGCC-2025\Albert\gedai-api\gedai-api\GEDAI.Authorization.Api\obj\Debug\net8.0\GEDAI.Authorization.Api.genruntimeconfig.cache
+C:\Users\alber\OneDrive\Documentos\ESTUDOS\MESTRADO\SISTEMAS DISTRIBUIDOS\PROJETOS\SD-PPGCC-2025\Albert\gedai-api\gedai-api\GEDAI.Authorization.Api\obj\Debug\net8.0\ref\GEDAI.Authorization.Api.dll

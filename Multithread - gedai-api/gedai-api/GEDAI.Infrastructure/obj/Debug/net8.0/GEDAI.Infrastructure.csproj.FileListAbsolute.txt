@@ -1,0 +1,71 @@
+C:\Users\alber\OneDrive\Documentos\TRABALHO\JOPE TECNOLOGIA\PROJETOS\GEDAI\GEDAI\GEDAI.Infrastructure\bin\Debug\net8.0\GEDAI.Infrastructure.deps.json
+C:\Users\alber\OneDrive\Documentos\TRABALHO\JOPE TECNOLOGIA\PROJETOS\GEDAI\GEDAI\GEDAI.Infrastructure\bin\Debug\net8.0\GEDAI.Infrastructure.runtimeconfig.json
+C:\Users\alber\OneDrive\Documentos\TRABALHO\JOPE TECNOLOGIA\PROJETOS\GEDAI\GEDAI\GEDAI.Infrastructure\bin\Debug\net8.0\GEDAI.Infrastructure.dll
+C:\Users\alber\OneDrive\Documentos\TRABALHO\JOPE TECNOLOGIA\PROJETOS\GEDAI\GEDAI\GEDAI.Infrastructure\bin\Debug\net8.0\GEDAI.Infrastructure.pdb
+C:\Users\alber\OneDrive\Documentos\TRABALHO\JOPE TECNOLOGIA\PROJETOS\GEDAI\GEDAI\GEDAI.Infrastructure\bin\Debug\net8.0\GEDAI.Domain.dll
+C:\Users\alber\OneDrive\Documentos\TRABALHO\JOPE TECNOLOGIA\PROJETOS\GEDAI\GEDAI\GEDAI.Infrastructure\bin\Debug\net8.0\GEDAI.Domain.pdb
+C:\Users\alber\OneDrive\Documentos\TRABALHO\JOPE TECNOLOGIA\PROJETOS\GEDAI\GEDAI\GEDAI.Infrastructure\obj\Debug\net8.0\GEDAI.Infrastructure.csproj.AssemblyReference.cache
+C:\Users\alber\OneDrive\Documentos\TRABALHO\JOPE TECNOLOGIA\PROJETOS\GEDAI\GEDAI\GEDAI.Infrastructure\obj\Debug\net8.0\GEDAI.Infrastructure.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\alber\OneDrive\Documentos\TRABALHO\JOPE TECNOLOGIA\PROJETOS\GEDAI\GEDAI\GEDAI.Infrastructure\obj\Debug\net8.0\GEDAI.Infrastructure.AssemblyInfoInputs.cache
+C:\Users\alber\OneDrive\Documentos\TRABALHO\JOPE TECNOLOGIA\PROJETOS\GEDAI\GEDAI\GEDAI.Infrastructure\obj\Debug\net8.0\GEDAI.Infrastructure.AssemblyInfo.cs
+C:\Users\alber\OneDrive\Documentos\TRABALHO\JOPE TECNOLOGIA\PROJETOS\GEDAI\GEDAI\GEDAI.Infrastructure\obj\Debug\net8.0\GEDAI.Infrastructure.csproj.CoreCompileInputs.cache
+C:\Users\alber\OneDrive\Documentos\TRABALHO\JOPE TECNOLOGIA\PROJETOS\GEDAI\GEDAI\GEDAI.Infrastructure\obj\Debug\net8.0\GEDAI.In.CD926259.Up2Date
+C:\Users\alber\OneDrive\Documentos\TRABALHO\JOPE TECNOLOGIA\PROJETOS\GEDAI\GEDAI\GEDAI.Infrastructure\obj\Debug\net8.0\GEDAI.Infrastructure.dll
+C:\Users\alber\OneDrive\Documentos\TRABALHO\JOPE TECNOLOGIA\PROJETOS\GEDAI\GEDAI\GEDAI.Infrastructure\obj\Debug\net8.0\refint\GEDAI.Infrastructure.dll
+C:\Users\alber\OneDrive\Documentos\TRABALHO\JOPE TECNOLOGIA\PROJETOS\GEDAI\GEDAI\GEDAI.Infrastructure\obj\Debug\net8.0\GEDAI.Infrastructure.pdb
+C:\Users\alber\OneDrive\Documentos\TRABALHO\JOPE TECNOLOGIA\PROJETOS\GEDAI\GEDAI\GEDAI.Infrastructure\obj\Debug\net8.0\GEDAI.Infrastructure.genruntimeconfig.cache
+C:\Users\alber\OneDrive\Documentos\TRABALHO\JOPE TECNOLOGIA\PROJETOS\GEDAI\GEDAI\GEDAI.Infrastructure\obj\Debug\net8.0\ref\GEDAI.Infrastructure.dll
+C:\Users\alber\OneDrive\Documentos\TRABALHO\JOPE TECNOLOGIA\PROJETOS\GEDAI\gedai-api\GEDAI.Infrastructure\bin\Debug\net8.0\GEDAI.Infrastructure.deps.json
+C:\Users\alber\OneDrive\Documentos\TRABALHO\JOPE TECNOLOGIA\PROJETOS\GEDAI\gedai-api\GEDAI.Infrastructure\bin\Debug\net8.0\GEDAI.Infrastructure.runtimeconfig.json
+C:\Users\alber\OneDrive\Documentos\TRABALHO\JOPE TECNOLOGIA\PROJETOS\GEDAI\gedai-api\GEDAI.Infrastructure\bin\Debug\net8.0\GEDAI.Infrastructure.dll
+C:\Users\alber\OneDrive\Documentos\TRABALHO\JOPE TECNOLOGIA\PROJETOS\GEDAI\gedai-api\GEDAI.Infrastructure\bin\Debug\net8.0\GEDAI.Infrastructure.pdb
+C:\Users\alber\OneDrive\Documentos\TRABALHO\JOPE TECNOLOGIA\PROJETOS\GEDAI\gedai-api\GEDAI.Infrastructure\bin\Debug\net8.0\GEDAI.Domain.dll
+C:\Users\alber\OneDrive\Documentos\TRABALHO\JOPE TECNOLOGIA\PROJETOS\GEDAI\gedai-api\GEDAI.Infrastructure\bin\Debug\net8.0\GEDAI.Domain.pdb
+C:\Users\alber\OneDrive\Documentos\TRABALHO\JOPE TECNOLOGIA\PROJETOS\GEDAI\gedai-api\GEDAI.Infrastructure\obj\Debug\net8.0\GEDAI.Infrastructure.csproj.AssemblyReference.cache
+C:\Users\alber\OneDrive\Documentos\TRABALHO\JOPE TECNOLOGIA\PROJETOS\GEDAI\gedai-api\GEDAI.Infrastructure\obj\Debug\net8.0\GEDAI.Infrastructure.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\alber\OneDrive\Documentos\TRABALHO\JOPE TECNOLOGIA\PROJETOS\GEDAI\gedai-api\GEDAI.Infrastructure\obj\Debug\net8.0\GEDAI.Infrastructure.AssemblyInfoInputs.cache
+C:\Users\alber\OneDrive\Documentos\TRABALHO\JOPE TECNOLOGIA\PROJETOS\GEDAI\gedai-api\GEDAI.Infrastructure\obj\Debug\net8.0\GEDAI.Infrastructure.AssemblyInfo.cs
+C:\Users\alber\OneDrive\Documentos\TRABALHO\JOPE TECNOLOGIA\PROJETOS\GEDAI\gedai-api\GEDAI.Infrastructure\obj\Debug\net8.0\GEDAI.Infrastructure.csproj.CoreCompileInputs.cache
+C:\Users\alber\OneDrive\Documentos\TRABALHO\JOPE TECNOLOGIA\PROJETOS\GEDAI\gedai-api\GEDAI.Infrastructure\obj\Debug\net8.0\GEDAI.Infrastructure.sourcelink.json
+C:\Users\alber\OneDrive\Documentos\TRABALHO\JOPE TECNOLOGIA\PROJETOS\GEDAI\gedai-api\GEDAI.Infrastructure\obj\Debug\net8.0\GEDAI.In.CD926259.Up2Date
+C:\Users\alber\OneDrive\Documentos\TRABALHO\JOPE TECNOLOGIA\PROJETOS\GEDAI\gedai-api\GEDAI.Infrastructure\obj\Debug\net8.0\GEDAI.Infrastructure.dll
+C:\Users\alber\OneDrive\Documentos\TRABALHO\JOPE TECNOLOGIA\PROJETOS\GEDAI\gedai-api\GEDAI.Infrastructure\obj\Debug\net8.0\refint\GEDAI.Infrastructure.dll
+C:\Users\alber\OneDrive\Documentos\TRABALHO\JOPE TECNOLOGIA\PROJETOS\GEDAI\gedai-api\GEDAI.Infrastructure\obj\Debug\net8.0\GEDAI.Infrastructure.pdb
+C:\Users\alber\OneDrive\Documentos\TRABALHO\JOPE TECNOLOGIA\PROJETOS\GEDAI\gedai-api\GEDAI.Infrastructure\obj\Debug\net8.0\GEDAI.Infrastructure.genruntimeconfig.cache
+C:\Users\alber\OneDrive\Documentos\TRABALHO\JOPE TECNOLOGIA\PROJETOS\GEDAI\gedai-api\GEDAI.Infrastructure\obj\Debug\net8.0\ref\GEDAI.Infrastructure.dll
+C:\Users\alber\OneDrive\Documentos\ESTUDOS\MESTRADO\SISTEMAS DISTRIBUIDOS\PROJETOS\SISTEMA DISTRIBUIDO COM MULTITHREADING\gedai-api\gedai-api\GEDAI.Infrastructure\bin\Debug\net8.0\GEDAI.Infrastructure.deps.json
+C:\Users\alber\OneDrive\Documentos\ESTUDOS\MESTRADO\SISTEMAS DISTRIBUIDOS\PROJETOS\SISTEMA DISTRIBUIDO COM MULTITHREADING\gedai-api\gedai-api\GEDAI.Infrastructure\bin\Debug\net8.0\GEDAI.Infrastructure.runtimeconfig.json
+C:\Users\alber\OneDrive\Documentos\ESTUDOS\MESTRADO\SISTEMAS DISTRIBUIDOS\PROJETOS\SISTEMA DISTRIBUIDO COM MULTITHREADING\gedai-api\gedai-api\GEDAI.Infrastructure\bin\Debug\net8.0\GEDAI.Infrastructure.dll
+C:\Users\alber\OneDrive\Documentos\ESTUDOS\MESTRADO\SISTEMAS DISTRIBUIDOS\PROJETOS\SISTEMA DISTRIBUIDO COM MULTITHREADING\gedai-api\gedai-api\GEDAI.Infrastructure\bin\Debug\net8.0\GEDAI.Infrastructure.pdb
+C:\Users\alber\OneDrive\Documentos\ESTUDOS\MESTRADO\SISTEMAS DISTRIBUIDOS\PROJETOS\SISTEMA DISTRIBUIDO COM MULTITHREADING\gedai-api\gedai-api\GEDAI.Infrastructure\bin\Debug\net8.0\GEDAI.Domain.dll
+C:\Users\alber\OneDrive\Documentos\ESTUDOS\MESTRADO\SISTEMAS DISTRIBUIDOS\PROJETOS\SISTEMA DISTRIBUIDO COM MULTITHREADING\gedai-api\gedai-api\GEDAI.Infrastructure\bin\Debug\net8.0\GEDAI.Domain.pdb
+C:\Users\alber\OneDrive\Documentos\ESTUDOS\MESTRADO\SISTEMAS DISTRIBUIDOS\PROJETOS\SISTEMA DISTRIBUIDO COM MULTITHREADING\gedai-api\gedai-api\GEDAI.Infrastructure\obj\Debug\net8.0\GEDAI.Infrastructure.csproj.AssemblyReference.cache
+C:\Users\alber\OneDrive\Documentos\ESTUDOS\MESTRADO\SISTEMAS DISTRIBUIDOS\PROJETOS\SISTEMA DISTRIBUIDO COM MULTITHREADING\gedai-api\gedai-api\GEDAI.Infrastructure\obj\Debug\net8.0\GEDAI.Infrastructure.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\alber\OneDrive\Documentos\ESTUDOS\MESTRADO\SISTEMAS DISTRIBUIDOS\PROJETOS\SISTEMA DISTRIBUIDO COM MULTITHREADING\gedai-api\gedai-api\GEDAI.Infrastructure\obj\Debug\net8.0\GEDAI.Infrastructure.AssemblyInfoInputs.cache
+C:\Users\alber\OneDrive\Documentos\ESTUDOS\MESTRADO\SISTEMAS DISTRIBUIDOS\PROJETOS\SISTEMA DISTRIBUIDO COM MULTITHREADING\gedai-api\gedai-api\GEDAI.Infrastructure\obj\Debug\net8.0\GEDAI.Infrastructure.AssemblyInfo.cs
+C:\Users\alber\OneDrive\Documentos\ESTUDOS\MESTRADO\SISTEMAS DISTRIBUIDOS\PROJETOS\SISTEMA DISTRIBUIDO COM MULTITHREADING\gedai-api\gedai-api\GEDAI.Infrastructure\obj\Debug\net8.0\GEDAI.Infrastructure.csproj.CoreCompileInputs.cache
+C:\Users\alber\OneDrive\Documentos\ESTUDOS\MESTRADO\SISTEMAS DISTRIBUIDOS\PROJETOS\SISTEMA DISTRIBUIDO COM MULTITHREADING\gedai-api\gedai-api\GEDAI.Infrastructure\obj\Debug\net8.0\GEDAI.Infrastructure.sourcelink.json
+C:\Users\alber\OneDrive\Documentos\ESTUDOS\MESTRADO\SISTEMAS DISTRIBUIDOS\PROJETOS\SISTEMA DISTRIBUIDO COM MULTITHREADING\gedai-api\gedai-api\GEDAI.Infrastructure\obj\Debug\net8.0\GEDAI.In.CD926259.Up2Date
+C:\Users\alber\OneDrive\Documentos\ESTUDOS\MESTRADO\SISTEMAS DISTRIBUIDOS\PROJETOS\SISTEMA DISTRIBUIDO COM MULTITHREADING\gedai-api\gedai-api\GEDAI.Infrastructure\obj\Debug\net8.0\GEDAI.Infrastructure.dll
+C:\Users\alber\OneDrive\Documentos\ESTUDOS\MESTRADO\SISTEMAS DISTRIBUIDOS\PROJETOS\SISTEMA DISTRIBUIDO COM MULTITHREADING\gedai-api\gedai-api\GEDAI.Infrastructure\obj\Debug\net8.0\refint\GEDAI.Infrastructure.dll
+C:\Users\alber\OneDrive\Documentos\ESTUDOS\MESTRADO\SISTEMAS DISTRIBUIDOS\PROJETOS\SISTEMA DISTRIBUIDO COM MULTITHREADING\gedai-api\gedai-api\GEDAI.Infrastructure\obj\Debug\net8.0\GEDAI.Infrastructure.pdb
+C:\Users\alber\OneDrive\Documentos\ESTUDOS\MESTRADO\SISTEMAS DISTRIBUIDOS\PROJETOS\SISTEMA DISTRIBUIDO COM MULTITHREADING\gedai-api\gedai-api\GEDAI.Infrastructure\obj\Debug\net8.0\GEDAI.Infrastructure.genruntimeconfig.cache
+C:\Users\alber\OneDrive\Documentos\ESTUDOS\MESTRADO\SISTEMAS DISTRIBUIDOS\PROJETOS\SISTEMA DISTRIBUIDO COM MULTITHREADING\gedai-api\gedai-api\GEDAI.Infrastructure\obj\Debug\net8.0\ref\GEDAI.Infrastructure.dll
+C:\Users\alber\OneDrive\Documentos\ESTUDOS\MESTRADO\SISTEMAS DISTRIBUIDOS\PROJETOS\SD-PPGCC-2025\Albert\gedai-api\gedai-api\GEDAI.Infrastructure\bin\Debug\net8.0\GEDAI.Infrastructure.deps.json
+C:\Users\alber\OneDrive\Documentos\ESTUDOS\MESTRADO\SISTEMAS DISTRIBUIDOS\PROJETOS\SD-PPGCC-2025\Albert\gedai-api\gedai-api\GEDAI.Infrastructure\bin\Debug\net8.0\GEDAI.Infrastructure.runtimeconfig.json
+C:\Users\alber\OneDrive\Documentos\ESTUDOS\MESTRADO\SISTEMAS DISTRIBUIDOS\PROJETOS\SD-PPGCC-2025\Albert\gedai-api\gedai-api\GEDAI.Infrastructure\bin\Debug\net8.0\GEDAI.Infrastructure.dll
+C:\Users\alber\OneDrive\Documentos\ESTUDOS\MESTRADO\SISTEMAS DISTRIBUIDOS\PROJETOS\SD-PPGCC-2025\Albert\gedai-api\gedai-api\GEDAI.Infrastructure\bin\Debug\net8.0\GEDAI.Infrastructure.pdb
+C:\Users\alber\OneDrive\Documentos\ESTUDOS\MESTRADO\SISTEMAS DISTRIBUIDOS\PROJETOS\SD-PPGCC-2025\Albert\gedai-api\gedai-api\GEDAI.Infrastructure\bin\Debug\net8.0\GEDAI.Domain.dll
+C:\Users\alber\OneDrive\Documentos\ESTUDOS\MESTRADO\SISTEMAS DISTRIBUIDOS\PROJETOS\SD-PPGCC-2025\Albert\gedai-api\gedai-api\GEDAI.Infrastructure\bin\Debug\net8.0\GEDAI.Domain.pdb
+C:\Users\alber\OneDrive\Documentos\ESTUDOS\MESTRADO\SISTEMAS DISTRIBUIDOS\PROJETOS\SD-PPGCC-2025\Albert\gedai-api\gedai-api\GEDAI.Infrastructure\obj\Debug\net8.0\GEDAI.Infrastructure.csproj.AssemblyReference.cache
+C:\Users\alber\OneDrive\Documentos\ESTUDOS\MESTRADO\SISTEMAS DISTRIBUIDOS\PROJETOS\SD-PPGCC-2025\Albert\gedai-api\gedai-api\GEDAI.Infrastructure\obj\Debug\net8.0\GEDAI.Infrastructure.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\alber\OneDrive\Documentos\ESTUDOS\MESTRADO\SISTEMAS DISTRIBUIDOS\PROJETOS\SD-PPGCC-2025\Albert\gedai-api\gedai-api\GEDAI.Infrastructure\obj\Debug\net8.0\GEDAI.Infrastructure.AssemblyInfoInputs.cache
+C:\Users\alber\OneDrive\Documentos\ESTUDOS\MESTRADO\SISTEMAS DISTRIBUIDOS\PROJETOS\SD-PPGCC-2025\Albert\gedai-api\gedai-api\GEDAI.Infrastructure\obj\Debug\net8.0\GEDAI.Infrastructure.AssemblyInfo.cs
+C:\Users\alber\OneDrive\Documentos\ESTUDOS\MESTRADO\SISTEMAS DISTRIBUIDOS\PROJETOS\SD-PPGCC-2025\Albert\gedai-api\gedai-api\GEDAI.Infrastructure\obj\Debug\net8.0\GEDAI.Infrastructure.csproj.CoreCompileInputs.cache
+C:\Users\alber\OneDrive\Documentos\ESTUDOS\MESTRADO\SISTEMAS DISTRIBUIDOS\PROJETOS\SD-PPGCC-2025\Albert\gedai-api\gedai-api\GEDAI.Infrastructure\obj\Debug\net8.0\GEDAI.Infrastructure.sourcelink.json
+C:\Users\alber\OneDrive\Documentos\ESTUDOS\MESTRADO\SISTEMAS DISTRIBUIDOS\PROJETOS\SD-PPGCC-2025\Albert\gedai-api\gedai-api\GEDAI.Infrastructure\obj\Debug\net8.0\GEDAI.In.CD926259.Up2Date
+C:\Users\alber\OneDrive\Documentos\ESTUDOS\MESTRADO\SISTEMAS DISTRIBUIDOS\PROJETOS\SD-PPGCC-2025\Albert\gedai-api\gedai-api\GEDAI.Infrastructure\obj\Debug\net8.0\GEDAI.Infrastructure.dll
+C:\Users\alber\OneDrive\Documentos\ESTUDOS\MESTRADO\SISTEMAS DISTRIBUIDOS\PROJETOS\SD-PPGCC-2025\Albert\gedai-api\gedai-api\GEDAI.Infrastructure\obj\Debug\net8.0\refint\GEDAI.Infrastructure.dll
+C:\Users\alber\OneDrive\Documentos\ESTUDOS\MESTRADO\SISTEMAS DISTRIBUIDOS\PROJETOS\SD-PPGCC-2025\Albert\gedai-api\gedai-api\GEDAI.Infrastructure\obj\Debug\net8.0\GEDAI.Infrastructure.pdb
+C:\Users\alber\OneDrive\Documentos\ESTUDOS\MESTRADO\SISTEMAS DISTRIBUIDOS\PROJETOS\SD-PPGCC-2025\Albert\gedai-api\gedai-api\GEDAI.Infrastructure\obj\Debug\net8.0\GEDAI.Infrastructure.genruntimeconfig.cache
+C:\Users\alber\OneDrive\Documentos\ESTUDOS\MESTRADO\SISTEMAS DISTRIBUIDOS\PROJETOS\SD-PPGCC-2025\Albert\gedai-api\gedai-api\GEDAI.Infrastructure\obj\Debug\net8.0\ref\GEDAI.Infrastructure.dll

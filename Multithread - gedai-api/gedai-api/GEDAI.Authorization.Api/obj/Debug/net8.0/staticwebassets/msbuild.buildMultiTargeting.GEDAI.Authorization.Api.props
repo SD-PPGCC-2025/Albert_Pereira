@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="..\build\GEDAI.Authorization.Api.props" />
+</Project>

@@ -1,0 +1,16 @@
+C:\Users\alber\OneDrive\Documentos\TRABALHO\JOPE TECNOLOGIA\PROJETOS\GEDAI\gedai-api\GEDAI.Application\bin\Release\net8.0\GEDAI.Application.deps.json
+C:\Users\alber\OneDrive\Documentos\TRABALHO\JOPE TECNOLOGIA\PROJETOS\GEDAI\gedai-api\GEDAI.Application\bin\Release\net8.0\GEDAI.Application.dll
+C:\Users\alber\OneDrive\Documentos\TRABALHO\JOPE TECNOLOGIA\PROJETOS\GEDAI\gedai-api\GEDAI.Application\bin\Release\net8.0\GEDAI.Application.pdb
+C:\Users\alber\OneDrive\Documentos\TRABALHO\JOPE TECNOLOGIA\PROJETOS\GEDAI\gedai-api\GEDAI.Application\bin\Release\net8.0\GEDAI.Domain.dll
+C:\Users\alber\OneDrive\Documentos\TRABALHO\JOPE TECNOLOGIA\PROJETOS\GEDAI\gedai-api\GEDAI.Application\bin\Release\net8.0\GEDAI.Domain.pdb
+C:\Users\alber\OneDrive\Documentos\TRABALHO\JOPE TECNOLOGIA\PROJETOS\GEDAI\gedai-api\GEDAI.Application\obj\Release\net8.0\GEDAI.Application.csproj.AssemblyReference.cache
+C:\Users\alber\OneDrive\Documentos\TRABALHO\JOPE TECNOLOGIA\PROJETOS\GEDAI\gedai-api\GEDAI.Application\obj\Release\net8.0\GEDAI.Application.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\alber\OneDrive\Documentos\TRABALHO\JOPE TECNOLOGIA\PROJETOS\GEDAI\gedai-api\GEDAI.Application\obj\Release\net8.0\GEDAI.Application.AssemblyInfoInputs.cache
+C:\Users\alber\OneDrive\Documentos\TRABALHO\JOPE TECNOLOGIA\PROJETOS\GEDAI\gedai-api\GEDAI.Application\obj\Release\net8.0\GEDAI.Application.AssemblyInfo.cs
+C:\Users\alber\OneDrive\Documentos\TRABALHO\JOPE TECNOLOGIA\PROJETOS\GEDAI\gedai-api\GEDAI.Application\obj\Release\net8.0\GEDAI.Application.csproj.CoreCompileInputs.cache
+C:\Users\alber\OneDrive\Documentos\TRABALHO\JOPE TECNOLOGIA\PROJETOS\GEDAI\gedai-api\GEDAI.Application\obj\Release\net8.0\GEDAI.Application.sourcelink.json
+C:\Users\alber\OneDrive\Documentos\TRABALHO\JOPE TECNOLOGIA\PROJETOS\GEDAI\gedai-api\GEDAI.Application\obj\Release\net8.0\GEDAI.Ap.2B85B693.Up2Date
+C:\Users\alber\OneDrive\Documentos\TRABALHO\JOPE TECNOLOGIA\PROJETOS\GEDAI\gedai-api\GEDAI.Application\obj\Release\net8.0\GEDAI.Application.dll
+C:\Users\alber\OneDrive\Documentos\TRABALHO\JOPE TECNOLOGIA\PROJETOS\GEDAI\gedai-api\GEDAI.Application\obj\Release\net8.0\refint\GEDAI.Application.dll
+C:\Users\alber\OneDrive\Documentos\TRABALHO\JOPE TECNOLOGIA\PROJETOS\GEDAI\gedai-api\GEDAI.Application\obj\Release\net8.0\GEDAI.Application.pdb
+C:\Users\alber\OneDrive\Documentos\TRABALHO\JOPE TECNOLOGIA\PROJETOS\GEDAI\gedai-api\GEDAI.Application\obj\Release\net8.0\ref\GEDAI.Application.dll

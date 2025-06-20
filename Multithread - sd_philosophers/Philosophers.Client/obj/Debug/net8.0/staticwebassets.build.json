@@ -1,0 +1,12 @@
+{
+  "Version": 1,
+  "Hash": "9r/r8evFYyyca3myIROZZ2CFS0XMpPN7585DBFIlG8o=",
+  "Source": "Philosophers.Client",
+  "BasePath": "_content/Philosophers.Client",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": [],
+  "Endpoints": []
+}

@@ -1,0 +1,12 @@
+{
+  "Version": 1,
+  "Hash": "MIH/G3Hb1y2woETnzJfvPUr3eum+hraU1N76335KLj0=",
+  "Source": "Philosophers.Server",
+  "BasePath": "_content/Philosophers.Server",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": [],
+  "Endpoints": []
+}

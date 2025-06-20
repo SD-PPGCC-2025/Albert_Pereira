@@ -1,0 +1,40 @@
+﻿@page
+@model Philosophers.Web.Pages.PhilosophersControlModel
+@{
+}
+
+@inject Philosophers.Client.PhilosophersApiClient ApiClient
+<div>
+
+</div>
+<h1>Dining Philosophers</h1>
+
+<button onclick="startPhilosopher(0)">Start Philosopher 0</button>
+<button onclick="startPhilosopher(1)">Start Philosopher 1</button>
+<button onclick="startPhilosopher(2)">Start Philosopher 2</button>
+<button onclick="startPhilosopher(3)">Start Philosopher 3</button>
+<button onclick="startPhilosopher(4)">Start Philosopher 4</button>
+
+<h2>States</h2>
+<ul id="states"></ul>
+
+<script>
+    async function startPhilosopher(id) {
+        await fetch(`http://localhost:5201/api/philosophers/start/${id}`, { method: 'POST' });
+        updateStates();
+    }
+
+    async function updateStates() {
+        const response = await fetch('http://localhost:5201/api/philosophers/states');
+        const states = await response.json();
+        const statesList = document.getElementById('states');
+        statesList.innerHTML = '';
+        for (const [id, state] of Object.entries(states)) {
+            const li = document.createElement('li');
+            li.textContent = `Philosopher ${id}: ${state}`;
+            statesList.appendChild(li);
+        }
+    }
+
+    setInterval(updateStates, 1000);
+</script>

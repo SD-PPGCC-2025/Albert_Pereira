@@ -1,0 +1,28 @@
+[
+  {
+    "ContainingType": "Philosophers.Server.Controllers.PhilosophersController",
+    "Method": "Start",
+    "RelativePath": "api/Philosophers/start/{id}",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "id",
+        "Type": "System.Int32",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "Philosophers.Server.Controllers.PhilosophersController",
+    "Method": "GetStates",
+    "RelativePath": "api/Philosophers/states",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [],
+    "ReturnTypes": []
+  }
+]

@@ -1,0 +1,12 @@
+C:\Users\alber\OneDrive\Documentos\ESTUDOS\MESTRADO\SISTEMAS DISTRIBUIDOS\PROJETOS\sd_philosophers\Philosophers.Client\obj\Release\net8.0\PubTmp\Out\Philosophers.Client.exe
+C:\Users\alber\OneDrive\Documentos\ESTUDOS\MESTRADO\SISTEMAS DISTRIBUIDOS\PROJETOS\sd_philosophers\Philosophers.Client\obj\Release\net8.0\PubTmp\Out\appsettings.Development.json
+C:\Users\alber\OneDrive\Documentos\ESTUDOS\MESTRADO\SISTEMAS DISTRIBUIDOS\PROJETOS\sd_philosophers\Philosophers.Client\obj\Release\net8.0\PubTmp\Out\appsettings.json
+C:\Users\alber\OneDrive\Documentos\ESTUDOS\MESTRADO\SISTEMAS DISTRIBUIDOS\PROJETOS\sd_philosophers\Philosophers.Client\obj\Release\net8.0\PubTmp\Out\libman.json
+C:\Users\alber\OneDrive\Documentos\ESTUDOS\MESTRADO\SISTEMAS DISTRIBUIDOS\PROJETOS\sd_philosophers\Philosophers.Client\obj\Release\net8.0\PubTmp\Out\Philosophers.Client.dll
+C:\Users\alber\OneDrive\Documentos\ESTUDOS\MESTRADO\SISTEMAS DISTRIBUIDOS\PROJETOS\sd_philosophers\Philosophers.Client\obj\Release\net8.0\PubTmp\Out\Philosophers.Client.deps.json
+C:\Users\alber\OneDrive\Documentos\ESTUDOS\MESTRADO\SISTEMAS DISTRIBUIDOS\PROJETOS\sd_philosophers\Philosophers.Client\obj\Release\net8.0\PubTmp\Out\Philosophers.Client.runtimeconfig.json
+C:\Users\alber\OneDrive\Documentos\ESTUDOS\MESTRADO\SISTEMAS DISTRIBUIDOS\PROJETOS\sd_philosophers\Philosophers.Client\obj\Release\net8.0\PubTmp\Out\Philosophers.Client.pdb
+C:\Users\alber\OneDrive\Documentos\ESTUDOS\MESTRADO\SISTEMAS DISTRIBUIDOS\PROJETOS\sd_philosophers\Philosophers.Client\obj\Release\net8.0\PubTmp\Out\Microsoft.OpenApi.dll
+C:\Users\alber\OneDrive\Documentos\ESTUDOS\MESTRADO\SISTEMAS DISTRIBUIDOS\PROJETOS\sd_philosophers\Philosophers.Client\obj\Release\net8.0\PubTmp\Out\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\alber\OneDrive\Documentos\ESTUDOS\MESTRADO\SISTEMAS DISTRIBUIDOS\PROJETOS\sd_philosophers\Philosophers.Client\obj\Release\net8.0\PubTmp\Out\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\alber\OneDrive\Documentos\ESTUDOS\MESTRADO\SISTEMAS DISTRIBUIDOS\PROJETOS\sd_philosophers\Philosophers.Client\obj\Release\net8.0\PubTmp\Out\Swashbuckle.AspNetCore.SwaggerUI.dll

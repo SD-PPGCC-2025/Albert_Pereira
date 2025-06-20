@@ -1,0 +1,6 @@
+@Philosophers.Client_HostAddress = http://localhost:5190
+
+GET {{Philosophers.Client_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###

@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="..\build\Philosophers.Client.props" />
+</Project>

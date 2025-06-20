@@ -1,0 +1,6 @@
+@GEDAI.Api_HostAddress = http://localhost:5079
+
+GET {{GEDAI.Api_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###

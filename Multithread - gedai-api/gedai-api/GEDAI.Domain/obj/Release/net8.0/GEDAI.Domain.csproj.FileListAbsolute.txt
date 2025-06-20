@@ -1,0 +1,12 @@
+C:\Users\alber\OneDrive\Documentos\TRABALHO\JOPE TECNOLOGIA\PROJETOS\GEDAI\gedai-api\GEDAI.Domain\bin\Release\net8.0\GEDAI.Domain.deps.json
+C:\Users\alber\OneDrive\Documentos\TRABALHO\JOPE TECNOLOGIA\PROJETOS\GEDAI\gedai-api\GEDAI.Domain\bin\Release\net8.0\GEDAI.Domain.dll
+C:\Users\alber\OneDrive\Documentos\TRABALHO\JOPE TECNOLOGIA\PROJETOS\GEDAI\gedai-api\GEDAI.Domain\bin\Release\net8.0\GEDAI.Domain.pdb
+C:\Users\alber\OneDrive\Documentos\TRABALHO\JOPE TECNOLOGIA\PROJETOS\GEDAI\gedai-api\GEDAI.Domain\obj\Release\net8.0\GEDAI.Domain.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\alber\OneDrive\Documentos\TRABALHO\JOPE TECNOLOGIA\PROJETOS\GEDAI\gedai-api\GEDAI.Domain\obj\Release\net8.0\GEDAI.Domain.AssemblyInfoInputs.cache
+C:\Users\alber\OneDrive\Documentos\TRABALHO\JOPE TECNOLOGIA\PROJETOS\GEDAI\gedai-api\GEDAI.Domain\obj\Release\net8.0\GEDAI.Domain.AssemblyInfo.cs
+C:\Users\alber\OneDrive\Documentos\TRABALHO\JOPE TECNOLOGIA\PROJETOS\GEDAI\gedai-api\GEDAI.Domain\obj\Release\net8.0\GEDAI.Domain.csproj.CoreCompileInputs.cache
+C:\Users\alber\OneDrive\Documentos\TRABALHO\JOPE TECNOLOGIA\PROJETOS\GEDAI\gedai-api\GEDAI.Domain\obj\Release\net8.0\GEDAI.Domain.sourcelink.json
+C:\Users\alber\OneDrive\Documentos\TRABALHO\JOPE TECNOLOGIA\PROJETOS\GEDAI\gedai-api\GEDAI.Domain\obj\Release\net8.0\GEDAI.Domain.dll
+C:\Users\alber\OneDrive\Documentos\TRABALHO\JOPE TECNOLOGIA\PROJETOS\GEDAI\gedai-api\GEDAI.Domain\obj\Release\net8.0\refint\GEDAI.Domain.dll
+C:\Users\alber\OneDrive\Documentos\TRABALHO\JOPE TECNOLOGIA\PROJETOS\GEDAI\gedai-api\GEDAI.Domain\obj\Release\net8.0\GEDAI.Domain.pdb
+C:\Users\alber\OneDrive\Documentos\TRABALHO\JOPE TECNOLOGIA\PROJETOS\GEDAI\gedai-api\GEDAI.Domain\obj\Release\net8.0\ref\GEDAI.Domain.dll
