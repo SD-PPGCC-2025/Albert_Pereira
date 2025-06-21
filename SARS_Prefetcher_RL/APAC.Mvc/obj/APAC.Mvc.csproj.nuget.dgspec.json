@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\alber\\OneDrive\\Documentos\\ESTUDOS\\MESTRADO\\SISTEMAS DISTRIBUIDOS\\PROJETOS\\SARS_Prefetcher_RL\\APAC.Mvc\\APAC.Mvc.csproj": {}
+    "C:\\Projetos\\MESTRADO\\Albert_Pereira\\SARS_Prefetcher_RL\\APAC.Mvc\\APAC.Mvc.csproj": {}
   },
   "projects": {
-    "C:\\Users\\alber\\OneDrive\\Documentos\\ESTUDOS\\MESTRADO\\SISTEMAS DISTRIBUIDOS\\PROJETOS\\SARS_Prefetcher_RL\\APAC.Core\\APAC.Core.csproj": {
+    "C:\\Projetos\\MESTRADO\\Albert_Pereira\\SARS_Prefetcher_RL\\APAC.Core\\APAC.Core.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\alber\\OneDrive\\Documentos\\ESTUDOS\\MESTRADO\\SISTEMAS DISTRIBUIDOS\\PROJETOS\\SARS_Prefetcher_RL\\APAC.Core\\APAC.Core.csproj",
+        "projectUniqueName": "C:\\Projetos\\MESTRADO\\Albert_Pereira\\SARS_Prefetcher_RL\\APAC.Core\\APAC.Core.csproj",
         "projectName": "APAC.Core",
-        "projectPath": "C:\\Users\\alber\\OneDrive\\Documentos\\ESTUDOS\\MESTRADO\\SISTEMAS DISTRIBUIDOS\\PROJETOS\\SARS_Prefetcher_RL\\APAC.Core\\APAC.Core.csproj",
+        "projectPath": "C:\\Projetos\\MESTRADO\\Albert_Pereira\\SARS_Prefetcher_RL\\APAC.Core\\APAC.Core.csproj",
         "packagesPath": "C:\\Users\\alber\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\alber\\OneDrive\\Documentos\\ESTUDOS\\MESTRADO\\SISTEMAS DISTRIBUIDOS\\PROJETOS\\SARS_Prefetcher_RL\\APAC.Core\\obj\\",
+        "outputPath": "C:\\Projetos\\MESTRADO\\Albert_Pereira\\SARS_Prefetcher_RL\\APAC.Core\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
@@ -69,14 +69,14 @@
         }
       }
     },
-    "C:\\Users\\alber\\OneDrive\\Documentos\\ESTUDOS\\MESTRADO\\SISTEMAS DISTRIBUIDOS\\PROJETOS\\SARS_Prefetcher_RL\\APAC.Mvc\\APAC.Mvc.csproj": {
+    "C:\\Projetos\\MESTRADO\\Albert_Pereira\\SARS_Prefetcher_RL\\APAC.Mvc\\APAC.Mvc.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\alber\\OneDrive\\Documentos\\ESTUDOS\\MESTRADO\\SISTEMAS DISTRIBUIDOS\\PROJETOS\\SARS_Prefetcher_RL\\APAC.Mvc\\APAC.Mvc.csproj",
+        "projectUniqueName": "C:\\Projetos\\MESTRADO\\Albert_Pereira\\SARS_Prefetcher_RL\\APAC.Mvc\\APAC.Mvc.csproj",
         "projectName": "APAC.Mvc",
-        "projectPath": "C:\\Users\\alber\\OneDrive\\Documentos\\ESTUDOS\\MESTRADO\\SISTEMAS DISTRIBUIDOS\\PROJETOS\\SARS_Prefetcher_RL\\APAC.Mvc\\APAC.Mvc.csproj",
+        "projectPath": "C:\\Projetos\\MESTRADO\\Albert_Pereira\\SARS_Prefetcher_RL\\APAC.Mvc\\APAC.Mvc.csproj",
         "packagesPath": "C:\\Users\\alber\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\alber\\OneDrive\\Documentos\\ESTUDOS\\MESTRADO\\SISTEMAS DISTRIBUIDOS\\PROJETOS\\SARS_Prefetcher_RL\\APAC.Mvc\\obj\\",
+        "outputPath": "C:\\Projetos\\MESTRADO\\Albert_Pereira\\SARS_Prefetcher_RL\\APAC.Mvc\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
@@ -97,8 +97,8 @@
           "net8.0": {
             "targetAlias": "net8.0",
             "projectReferences": {
-              "C:\\Users\\alber\\OneDrive\\Documentos\\ESTUDOS\\MESTRADO\\SISTEMAS DISTRIBUIDOS\\PROJETOS\\SARS_Prefetcher_RL\\APAC.Core\\APAC.Core.csproj": {
-                "projectPath": "C:\\Users\\alber\\OneDrive\\Documentos\\ESTUDOS\\MESTRADO\\SISTEMAS DISTRIBUIDOS\\PROJETOS\\SARS_Prefetcher_RL\\APAC.Core\\APAC.Core.csproj"
+              "C:\\Projetos\\MESTRADO\\Albert_Pereira\\SARS_Prefetcher_RL\\APAC.Core\\APAC.Core.csproj": {
+                "projectPath": "C:\\Projetos\\MESTRADO\\Albert_Pereira\\SARS_Prefetcher_RL\\APAC.Core\\APAC.Core.csproj"
               }
             }
           }

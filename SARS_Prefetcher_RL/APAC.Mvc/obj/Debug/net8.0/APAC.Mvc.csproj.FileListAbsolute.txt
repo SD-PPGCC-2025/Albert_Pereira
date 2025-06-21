@@ -35,3 +35,41 @@ C:\Users\alber\OneDrive\Documentos\ESTUDOS\MESTRADO\SISTEMAS DISTRIBUIDOS\PROJET
 C:\Users\alber\OneDrive\Documentos\ESTUDOS\MESTRADO\SISTEMAS DISTRIBUIDOS\PROJETOS\SARS_Prefetcher_RL\APAC.Mvc\obj\Debug\net8.0\APAC.Mvc.pdb
 C:\Users\alber\OneDrive\Documentos\ESTUDOS\MESTRADO\SISTEMAS DISTRIBUIDOS\PROJETOS\SARS_Prefetcher_RL\APAC.Mvc\obj\Debug\net8.0\APAC.Mvc.genruntimeconfig.cache
 C:\Users\alber\OneDrive\Documentos\ESTUDOS\MESTRADO\SISTEMAS DISTRIBUIDOS\PROJETOS\SARS_Prefetcher_RL\APAC.Mvc\obj\Debug\net8.0\ref\APAC.Mvc.dll
+C:\Projetos\MESTRADO\Albert_Pereira\SARS_Prefetcher_RL\APAC.Mvc\bin\Debug\net8.0\appsettings.Development.json
+C:\Projetos\MESTRADO\Albert_Pereira\SARS_Prefetcher_RL\APAC.Mvc\bin\Debug\net8.0\appsettings.json
+C:\Projetos\MESTRADO\Albert_Pereira\SARS_Prefetcher_RL\APAC.Mvc\bin\Debug\net8.0\APAC.Mvc.staticwebassets.endpoints.json
+C:\Projetos\MESTRADO\Albert_Pereira\SARS_Prefetcher_RL\APAC.Mvc\bin\Debug\net8.0\APAC.Mvc.staticwebassets.runtime.json
+C:\Projetos\MESTRADO\Albert_Pereira\SARS_Prefetcher_RL\APAC.Mvc\bin\Debug\net8.0\APAC.Mvc.exe
+C:\Projetos\MESTRADO\Albert_Pereira\SARS_Prefetcher_RL\APAC.Mvc\bin\Debug\net8.0\APAC.Mvc.deps.json
+C:\Projetos\MESTRADO\Albert_Pereira\SARS_Prefetcher_RL\APAC.Mvc\bin\Debug\net8.0\APAC.Mvc.runtimeconfig.json
+C:\Projetos\MESTRADO\Albert_Pereira\SARS_Prefetcher_RL\APAC.Mvc\bin\Debug\net8.0\APAC.Mvc.dll
+C:\Projetos\MESTRADO\Albert_Pereira\SARS_Prefetcher_RL\APAC.Mvc\bin\Debug\net8.0\APAC.Mvc.pdb
+C:\Projetos\MESTRADO\Albert_Pereira\SARS_Prefetcher_RL\APAC.Mvc\bin\Debug\net8.0\APAC.Core.dll
+C:\Projetos\MESTRADO\Albert_Pereira\SARS_Prefetcher_RL\APAC.Mvc\bin\Debug\net8.0\APAC.Core.pdb
+C:\Projetos\MESTRADO\Albert_Pereira\SARS_Prefetcher_RL\APAC.Mvc\obj\Debug\net8.0\APAC.Mvc.csproj.AssemblyReference.cache
+C:\Projetos\MESTRADO\Albert_Pereira\SARS_Prefetcher_RL\APAC.Mvc\obj\Debug\net8.0\rpswa.dswa.cache.json
+C:\Projetos\MESTRADO\Albert_Pereira\SARS_Prefetcher_RL\APAC.Mvc\obj\Debug\net8.0\APAC.Mvc.GeneratedMSBuildEditorConfig.editorconfig
+C:\Projetos\MESTRADO\Albert_Pereira\SARS_Prefetcher_RL\APAC.Mvc\obj\Debug\net8.0\APAC.Mvc.AssemblyInfoInputs.cache
+C:\Projetos\MESTRADO\Albert_Pereira\SARS_Prefetcher_RL\APAC.Mvc\obj\Debug\net8.0\APAC.Mvc.AssemblyInfo.cs
+C:\Projetos\MESTRADO\Albert_Pereira\SARS_Prefetcher_RL\APAC.Mvc\obj\Debug\net8.0\APAC.Mvc.csproj.CoreCompileInputs.cache
+C:\Projetos\MESTRADO\Albert_Pereira\SARS_Prefetcher_RL\APAC.Mvc\obj\Debug\net8.0\APAC.Mvc.MvcApplicationPartsAssemblyInfo.cache
+C:\Projetos\MESTRADO\Albert_Pereira\SARS_Prefetcher_RL\APAC.Mvc\obj\Debug\net8.0\APAC.Mvc.RazorAssemblyInfo.cache
+C:\Projetos\MESTRADO\Albert_Pereira\SARS_Prefetcher_RL\APAC.Mvc\obj\Debug\net8.0\APAC.Mvc.RazorAssemblyInfo.cs
+C:\Projetos\MESTRADO\Albert_Pereira\SARS_Prefetcher_RL\APAC.Mvc\obj\Debug\net8.0\APAC.Mvc.sourcelink.json
+C:\Projetos\MESTRADO\Albert_Pereira\SARS_Prefetcher_RL\APAC.Mvc\obj\Debug\net8.0\rjimswa.dswa.cache.json
+C:\Projetos\MESTRADO\Albert_Pereira\SARS_Prefetcher_RL\APAC.Mvc\obj\Debug\net8.0\rjsmrazor.dswa.cache.json
+C:\Projetos\MESTRADO\Albert_Pereira\SARS_Prefetcher_RL\APAC.Mvc\obj\Debug\net8.0\rjsmcshtml.dswa.cache.json
+C:\Projetos\MESTRADO\Albert_Pereira\SARS_Prefetcher_RL\APAC.Mvc\obj\Debug\net8.0\scopedcss\Views\Shared\_Layout.cshtml.rz.scp.css
+C:\Projetos\MESTRADO\Albert_Pereira\SARS_Prefetcher_RL\APAC.Mvc\obj\Debug\net8.0\scopedcss\bundle\APAC.Mvc.styles.css
+C:\Projetos\MESTRADO\Albert_Pereira\SARS_Prefetcher_RL\APAC.Mvc\obj\Debug\net8.0\scopedcss\projectbundle\APAC.Mvc.bundle.scp.css
+C:\Projetos\MESTRADO\Albert_Pereira\SARS_Prefetcher_RL\APAC.Mvc\obj\Debug\net8.0\staticwebassets.build.json
+C:\Projetos\MESTRADO\Albert_Pereira\SARS_Prefetcher_RL\APAC.Mvc\obj\Debug\net8.0\staticwebassets.build.json.cache
+C:\Projetos\MESTRADO\Albert_Pereira\SARS_Prefetcher_RL\APAC.Mvc\obj\Debug\net8.0\staticwebassets.development.json
+C:\Projetos\MESTRADO\Albert_Pereira\SARS_Prefetcher_RL\APAC.Mvc\obj\Debug\net8.0\staticwebassets.build.endpoints.json
+C:\Projetos\MESTRADO\Albert_Pereira\SARS_Prefetcher_RL\APAC.Mvc\obj\Debug\net8.0\staticwebassets.upToDateCheck.txt
+C:\Projetos\MESTRADO\Albert_Pereira\SARS_Prefetcher_RL\APAC.Mvc\obj\Debug\net8.0\APAC.Mvc.csproj.Up2Date
+C:\Projetos\MESTRADO\Albert_Pereira\SARS_Prefetcher_RL\APAC.Mvc\obj\Debug\net8.0\APAC.Mvc.dll
+C:\Projetos\MESTRADO\Albert_Pereira\SARS_Prefetcher_RL\APAC.Mvc\obj\Debug\net8.0\refint\APAC.Mvc.dll
+C:\Projetos\MESTRADO\Albert_Pereira\SARS_Prefetcher_RL\APAC.Mvc\obj\Debug\net8.0\APAC.Mvc.pdb
+C:\Projetos\MESTRADO\Albert_Pereira\SARS_Prefetcher_RL\APAC.Mvc\obj\Debug\net8.0\APAC.Mvc.genruntimeconfig.cache
+C:\Projetos\MESTRADO\Albert_Pereira\SARS_Prefetcher_RL\APAC.Mvc\obj\Debug\net8.0\ref\APAC.Mvc.dll

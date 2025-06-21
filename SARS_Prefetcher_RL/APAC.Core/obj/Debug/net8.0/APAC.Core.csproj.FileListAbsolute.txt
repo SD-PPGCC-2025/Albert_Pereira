@@ -9,3 +9,15 @@ C:\Users\alber\OneDrive\Documentos\ESTUDOS\MESTRADO\SISTEMAS DISTRIBUIDOS\PROJET
 C:\Users\alber\OneDrive\Documentos\ESTUDOS\MESTRADO\SISTEMAS DISTRIBUIDOS\PROJETOS\SARS_Prefetcher_RL\APAC.Core\obj\Debug\net8.0\refint\APAC.Core.dll
 C:\Users\alber\OneDrive\Documentos\ESTUDOS\MESTRADO\SISTEMAS DISTRIBUIDOS\PROJETOS\SARS_Prefetcher_RL\APAC.Core\obj\Debug\net8.0\APAC.Core.pdb
 C:\Users\alber\OneDrive\Documentos\ESTUDOS\MESTRADO\SISTEMAS DISTRIBUIDOS\PROJETOS\SARS_Prefetcher_RL\APAC.Core\obj\Debug\net8.0\ref\APAC.Core.dll
+C:\Projetos\MESTRADO\Albert_Pereira\SARS_Prefetcher_RL\APAC.Core\bin\Debug\net8.0\APAC.Core.deps.json
+C:\Projetos\MESTRADO\Albert_Pereira\SARS_Prefetcher_RL\APAC.Core\bin\Debug\net8.0\APAC.Core.dll
+C:\Projetos\MESTRADO\Albert_Pereira\SARS_Prefetcher_RL\APAC.Core\bin\Debug\net8.0\APAC.Core.pdb
+C:\Projetos\MESTRADO\Albert_Pereira\SARS_Prefetcher_RL\APAC.Core\obj\Debug\net8.0\APAC.Core.GeneratedMSBuildEditorConfig.editorconfig
+C:\Projetos\MESTRADO\Albert_Pereira\SARS_Prefetcher_RL\APAC.Core\obj\Debug\net8.0\APAC.Core.AssemblyInfoInputs.cache
+C:\Projetos\MESTRADO\Albert_Pereira\SARS_Prefetcher_RL\APAC.Core\obj\Debug\net8.0\APAC.Core.AssemblyInfo.cs
+C:\Projetos\MESTRADO\Albert_Pereira\SARS_Prefetcher_RL\APAC.Core\obj\Debug\net8.0\APAC.Core.csproj.CoreCompileInputs.cache
+C:\Projetos\MESTRADO\Albert_Pereira\SARS_Prefetcher_RL\APAC.Core\obj\Debug\net8.0\APAC.Core.sourcelink.json
+C:\Projetos\MESTRADO\Albert_Pereira\SARS_Prefetcher_RL\APAC.Core\obj\Debug\net8.0\APAC.Core.dll
+C:\Projetos\MESTRADO\Albert_Pereira\SARS_Prefetcher_RL\APAC.Core\obj\Debug\net8.0\refint\APAC.Core.dll
+C:\Projetos\MESTRADO\Albert_Pereira\SARS_Prefetcher_RL\APAC.Core\obj\Debug\net8.0\APAC.Core.pdb
+C:\Projetos\MESTRADO\Albert_Pereira\SARS_Prefetcher_RL\APAC.Core\obj\Debug\net8.0\ref\APAC.Core.dll

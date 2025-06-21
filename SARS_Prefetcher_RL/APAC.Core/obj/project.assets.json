@@ -14,11 +14,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\alber\\OneDrive\\Documentos\\ESTUDOS\\MESTRADO\\SISTEMAS DISTRIBUIDOS\\PROJETOS\\SARS_Prefetcher_RL\\APAC.Core\\APAC.Core.csproj",
+      "projectUniqueName": "C:\\Projetos\\MESTRADO\\Albert_Pereira\\SARS_Prefetcher_RL\\APAC.Core\\APAC.Core.csproj",
       "projectName": "APAC.Core",
-      "projectPath": "C:\\Users\\alber\\OneDrive\\Documentos\\ESTUDOS\\MESTRADO\\SISTEMAS DISTRIBUIDOS\\PROJETOS\\SARS_Prefetcher_RL\\APAC.Core\\APAC.Core.csproj",
+      "projectPath": "C:\\Projetos\\MESTRADO\\Albert_Pereira\\SARS_Prefetcher_RL\\APAC.Core\\APAC.Core.csproj",
       "packagesPath": "C:\\Users\\alber\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\alber\\OneDrive\\Documentos\\ESTUDOS\\MESTRADO\\SISTEMAS DISTRIBUIDOS\\PROJETOS\\SARS_Prefetcher_RL\\APAC.Core\\obj\\",
+      "outputPath": "C:\\Projetos\\MESTRADO\\Albert_Pereira\\SARS_Prefetcher_RL\\APAC.Core\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
