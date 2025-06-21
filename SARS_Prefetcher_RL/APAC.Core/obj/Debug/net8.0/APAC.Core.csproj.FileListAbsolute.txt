@@ -1,0 +1,11 @@
+C:\Users\alber\OneDrive\Documentos\ESTUDOS\MESTRADO\SISTEMAS DISTRIBUIDOS\PROJETOS\SARS_Prefetcher_RL\APAC.Core\bin\Debug\net8.0\APAC.Core.deps.json
+C:\Users\alber\OneDrive\Documentos\ESTUDOS\MESTRADO\SISTEMAS DISTRIBUIDOS\PROJETOS\SARS_Prefetcher_RL\APAC.Core\bin\Debug\net8.0\APAC.Core.dll
+C:\Users\alber\OneDrive\Documentos\ESTUDOS\MESTRADO\SISTEMAS DISTRIBUIDOS\PROJETOS\SARS_Prefetcher_RL\APAC.Core\bin\Debug\net8.0\APAC.Core.pdb
+C:\Users\alber\OneDrive\Documentos\ESTUDOS\MESTRADO\SISTEMAS DISTRIBUIDOS\PROJETOS\SARS_Prefetcher_RL\APAC.Core\obj\Debug\net8.0\APAC.Core.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\alber\OneDrive\Documentos\ESTUDOS\MESTRADO\SISTEMAS DISTRIBUIDOS\PROJETOS\SARS_Prefetcher_RL\APAC.Core\obj\Debug\net8.0\APAC.Core.AssemblyInfoInputs.cache
+C:\Users\alber\OneDrive\Documentos\ESTUDOS\MESTRADO\SISTEMAS DISTRIBUIDOS\PROJETOS\SARS_Prefetcher_RL\APAC.Core\obj\Debug\net8.0\APAC.Core.AssemblyInfo.cs
+C:\Users\alber\OneDrive\Documentos\ESTUDOS\MESTRADO\SISTEMAS DISTRIBUIDOS\PROJETOS\SARS_Prefetcher_RL\APAC.Core\obj\Debug\net8.0\APAC.Core.csproj.CoreCompileInputs.cache
+C:\Users\alber\OneDrive\Documentos\ESTUDOS\MESTRADO\SISTEMAS DISTRIBUIDOS\PROJETOS\SARS_Prefetcher_RL\APAC.Core\obj\Debug\net8.0\APAC.Core.dll
+C:\Users\alber\OneDrive\Documentos\ESTUDOS\MESTRADO\SISTEMAS DISTRIBUIDOS\PROJETOS\SARS_Prefetcher_RL\APAC.Core\obj\Debug\net8.0\refint\APAC.Core.dll
+C:\Users\alber\OneDrive\Documentos\ESTUDOS\MESTRADO\SISTEMAS DISTRIBUIDOS\PROJETOS\SARS_Prefetcher_RL\APAC.Core\obj\Debug\net8.0\APAC.Core.pdb
+C:\Users\alber\OneDrive\Documentos\ESTUDOS\MESTRADO\SISTEMAS DISTRIBUIDOS\PROJETOS\SARS_Prefetcher_RL\APAC.Core\obj\Debug\net8.0\ref\APAC.Core.dll

@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.14.36212.18
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "APAC.Core", "APAC.Core\APAC.Core.csproj", "{C4C0240B-4026-446E-B99F-249B5509A957}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "APAC.Mvc", "APAC.Mvc\APAC.Mvc.csproj", "{4DADF4B2-35BB-49AB-BDC3-F30AF6216730}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{C4C0240B-4026-446E-B99F-249B5509A957}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C4C0240B-4026-446E-B99F-249B5509A957}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C4C0240B-4026-446E-B99F-249B5509A957}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C4C0240B-4026-446E-B99F-249B5509A957}.Release|Any CPU.Build.0 = Release|Any CPU
+		{4DADF4B2-35BB-49AB-BDC3-F30AF6216730}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4DADF4B2-35BB-49AB-BDC3-F30AF6216730}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4DADF4B2-35BB-49AB-BDC3-F30AF6216730}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4DADF4B2-35BB-49AB-BDC3-F30AF6216730}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {1FD88CAD-747C-4467-B7F2-C08152FCE81E}
+	EndGlobalSection
+EndGlobal

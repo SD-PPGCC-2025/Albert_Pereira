@@ -1,0 +1,10 @@
+{
+  "profiles": {
+    "SARS_Prefetcher_RL": {
+      "commandName": "Project"
+    },
+    "Container (Dockerfile)": {
+      "commandName": "Docker"
+    }
+  }
+}

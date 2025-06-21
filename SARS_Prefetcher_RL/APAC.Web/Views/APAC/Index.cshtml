@@ -1,0 +1,40 @@
+﻿@{
+    ViewBag.Title = "APAC RL Controller";
+    var rewards = ViewBag.Rewards as List<double> ?? new List<double>();
+}
+
+<h2>APAC RL Controller</h2>
+
+@if (TempData["Message"] != null)
+{
+    <div style="color:green">@TempData["Message"]</div>
+}
+@if (TempData["Error"] != null)
+{
+    <div style="color:red">@TempData["Error"]</div>
+}
+
+<form asp-action="Initialize" method="post">
+    <label>Estados:</label>
+    <input type="number" name="stateCount" value="10" min="1" required />
+    <label>Ações:</label>
+    <input type="number" name="actionCount" value="5" min="1" required />
+    <button type="submit">Inicializar</button>
+</form>
+
+<form asp-action="Train" method="post" style="margin-top:10px;">
+    <label>Episódios de Treinamento:</label>
+    <input type="number" name="episodes" value="100" min="1" required />
+    <button type="submit">Treinar</button>
+</form>
+
+@if (rewards.Count > 0)
+{
+    <h3>Recompensas Recentes</h3>
+    <ul>
+        @foreach (var r in rewards.TakeLast(20))
+        {
+            <li>@r.ToString("F3")</li>
+        }
+    </ul>
+}
