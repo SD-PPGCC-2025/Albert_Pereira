@@ -1,5 +1,5 @@
 # Albert Pereira
-# Repositório de Projetos - Mestrado em Ciências da Computação
+# Repositório de Projetos - Mestrado em Ciências da Computação - Sistemas Distribuídos
 
 Este repositório reúne os projetos desenvolvidos por Albert Pereira durante o Mestrado em Ciências da Computação, disciplina de Sistemas Distribuídos (PPGCC - 2025). O objetivo é centralizar os trabalhos e experimentos realizados ao longo do curso, facilitando o acesso, acompanhamento e evolução dos estudos.
 
