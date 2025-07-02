@@ -1,0 +1,13 @@
+@startuml
+node Browser {
+  [Index.cshtml + JS]
+}
+node WebServer {
+  component "ASP.NET Core MVC App" {
+    [SnapshotController]
+    [SnapshotService]
+    [EF Core (opcional)]
+  }
+}
+Browser --> WebServer : HTTP/HTTPS
+@enduml

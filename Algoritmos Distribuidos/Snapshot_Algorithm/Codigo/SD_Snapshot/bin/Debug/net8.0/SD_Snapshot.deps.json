@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v8.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v8.0": {
+      "SD_Snapshot/1.0.0": {
+        "runtime": {
+          "SD_Snapshot.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "SD_Snapshot/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

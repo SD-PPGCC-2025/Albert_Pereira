@@ -1,0 +1,35 @@
+@startuml
+class ProcessNode {
+  +int Id
+  +int LocalState
+  +bool HasRecorded
+  +HashSet<int> MarkersReceivedFrom
+  +Dictionary<int,List<ChannelMessage>> ChannelBuffers
+  +ProcessNode(int id)
+}
+
+class ChannelMessage {
+  +int FromId
+  +int ToId
+  +string Content
+}
+
+class SnapshotResult {
+  +Dictionary<int,int> RecordedStates
+  +Dictionary<string,List<ChannelMessage>> InTransit
+}
+
+class SnapshotService {
+  -Dictionary<int,ProcessNode> _nodes
+  -List<ChannelMessage> _globalChannel
+  +SnapshotService()
+  +SnapshotResult StartSnapshot(int initiatorId)
+  -void RecordLocalState(int nodeId)
+  -void ReceiveMarker(int nodeId, int fromId)
+}
+
+ProcessNode "1" *-- "*" ChannelMessage : buffers
+SnapshotService "1" o-- "3" ProcessNode
+SnapshotService "1" o-- "*" ChannelMessage : globalChannel
+SnapshotService "1" ..> SnapshotResult
+@enduml

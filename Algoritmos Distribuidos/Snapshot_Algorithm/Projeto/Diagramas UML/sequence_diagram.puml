@@ -1,0 +1,26 @@
+@startuml
+actor User
+participant "SnapshotController" as C
+participant "SnapshotService" as S
+participant "ProcessNode[1..3]" as N
+
+User -> C : POST /Snapshot/StartSnapshot(initiatorId)
+C -> S : StartSnapshot(initiatorId)
+activate S
+S -> N : RecordLocalState(initiator)
+activate N
+N --> S : (marca estado local, envia marcadores)
+deactivate N
+
+loop para cada nó não-initiador
+  S -> N : ReceiveMarker(from initiator)
+  activate N
+  N --> S : (marca estado local se primeiro marker)
+  deactivate N
+end
+
+S -> S : Coleta mensagens em trânsito
+S --> C : return SnapshotResult(JSON)
+deactivate S
+C -> User : JSON payload
+@enduml

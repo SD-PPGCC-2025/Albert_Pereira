@@ -1,0 +1,196 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Projetos\\MESTRADO\\Albert_Pereira\\Algoritmos Distribuidos\\Snapshot_Algorithm\\Codigo\\SD_Snapshot\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{8A92D376-3F07-4D41-BF96-BFB11786D61F}|SD_Snapshot.csproj|c:\\projetos\\mestrado\\albert_pereira\\algoritmos distribuidos\\snapshot_algorithm\\codigo\\sd_snapshot\\services\\snapshotservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8A92D376-3F07-4D41-BF96-BFB11786D61F}|SD_Snapshot.csproj|solutionrelative:services\\snapshotservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8A92D376-3F07-4D41-BF96-BFB11786D61F}|SD_Snapshot.csproj|c:\\projetos\\mestrado\\albert_pereira\\algoritmos distribuidos\\snapshot_algorithm\\codigo\\sd_snapshot\\models\\snapshotresult.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8A92D376-3F07-4D41-BF96-BFB11786D61F}|SD_Snapshot.csproj|solutionrelative:models\\snapshotresult.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8A92D376-3F07-4D41-BF96-BFB11786D61F}|SD_Snapshot.csproj|c:\\projetos\\mestrado\\albert_pereira\\algoritmos distribuidos\\snapshot_algorithm\\codigo\\sd_snapshot\\models\\channelmessage.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8A92D376-3F07-4D41-BF96-BFB11786D61F}|SD_Snapshot.csproj|solutionrelative:models\\channelmessage.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8A92D376-3F07-4D41-BF96-BFB11786D61F}|SD_Snapshot.csproj|c:\\projetos\\mestrado\\albert_pereira\\algoritmos distribuidos\\snapshot_algorithm\\codigo\\sd_snapshot\\models\\processnode.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8A92D376-3F07-4D41-BF96-BFB11786D61F}|SD_Snapshot.csproj|solutionrelative:models\\processnode.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8A92D376-3F07-4D41-BF96-BFB11786D61F}|SD_Snapshot.csproj|c:\\projetos\\mestrado\\albert_pereira\\algoritmos distribuidos\\snapshot_algorithm\\codigo\\sd_snapshot\\controllers\\snapshotcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8A92D376-3F07-4D41-BF96-BFB11786D61F}|SD_Snapshot.csproj|solutionrelative:controllers\\snapshotcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8A92D376-3F07-4D41-BF96-BFB11786D61F}|SD_Snapshot.csproj|c:\\projetos\\mestrado\\albert_pereira\\algoritmos distribuidos\\snapshot_algorithm\\codigo\\sd_snapshot\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{8A92D376-3F07-4D41-BF96-BFB11786D61F}|SD_Snapshot.csproj|solutionrelative:views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8A92D376-3F07-4D41-BF96-BFB11786D61F}|SD_Snapshot.csproj|c:\\projetos\\mestrado\\albert_pereira\\algoritmos distribuidos\\snapshot_algorithm\\codigo\\sd_snapshot\\views\\snapshot\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{8A92D376-3F07-4D41-BF96-BFB11786D61F}|SD_Snapshot.csproj|solutionrelative:views\\snapshot\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8A92D376-3F07-4D41-BF96-BFB11786D61F}|SD_Snapshot.csproj|c:\\projetos\\mestrado\\albert_pereira\\algoritmos distribuidos\\snapshot_algorithm\\codigo\\sd_snapshot\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8A92D376-3F07-4D41-BF96-BFB11786D61F}|SD_Snapshot.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8A92D376-3F07-4D41-BF96-BFB11786D61F}|SD_Snapshot.csproj|c:\\projetos\\mestrado\\albert_pereira\\algoritmos distribuidos\\snapshot_algorithm\\codigo\\sd_snapshot\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{8A92D376-3F07-4D41-BF96-BFB11786D61F}|SD_Snapshot.csproj|solutionrelative:views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 9,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:131:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:130:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:129:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:129:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Projetos\\MESTRADO\\Albert_Pereira\\Algoritmos Distribuidos\\Snapshot_Algorithm\\Codigo\\SD_Snapshot\\Views\\Home\\Index.cshtml",
+              "RelativeDocumentMoniker": "Views\\Home\\Index.cshtml",
+              "ToolTip": "C:\\Projetos\\MESTRADO\\Albert_Pereira\\Algoritmos Distribuidos\\Snapshot_Algorithm\\Codigo\\SD_Snapshot\\Views\\Home\\Index.cshtml",
+              "RelativeToolTip": "Views\\Home\\Index.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAEAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-07-01T21:50:36.512Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Projetos\\MESTRADO\\Albert_Pereira\\Algoritmos Distribuidos\\Snapshot_Algorithm\\Codigo\\SD_Snapshot\\Views\\Snapshot\\Index.cshtml",
+              "RelativeDocumentMoniker": "Views\\Snapshot\\Index.cshtml",
+              "ToolTip": "C:\\Projetos\\MESTRADO\\Albert_Pereira\\Algoritmos Distribuidos\\Snapshot_Algorithm\\Codigo\\SD_Snapshot\\Views\\Snapshot\\Index.cshtml",
+              "RelativeToolTip": "Views\\Snapshot\\Index.cshtml",
+              "ViewState": "AgIAADQAAAAAAAAAAAAIwEoAAAASAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-06-29T14:16:45.468Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "SnapshotController.cs",
+              "DocumentMoniker": "C:\\Projetos\\MESTRADO\\Albert_Pereira\\Algoritmos Distribuidos\\Snapshot_Algorithm\\Codigo\\SD_Snapshot\\Controllers\\SnapshotController.cs",
+              "RelativeDocumentMoniker": "Controllers\\SnapshotController.cs",
+              "ToolTip": "C:\\Projetos\\MESTRADO\\Albert_Pereira\\Algoritmos Distribuidos\\Snapshot_Algorithm\\Codigo\\SD_Snapshot\\Controllers\\SnapshotController.cs",
+              "RelativeToolTip": "Controllers\\SnapshotController.cs",
+              "ViewState": "AgIAAAgAAAAAAAAAAAAuwBEAAABPAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-29T14:15:49.88Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "SnapshotService.cs",
+              "DocumentMoniker": "C:\\Projetos\\MESTRADO\\Albert_Pereira\\Algoritmos Distribuidos\\Snapshot_Algorithm\\Codigo\\SD_Snapshot\\Services\\SnapshotService.cs",
+              "RelativeDocumentMoniker": "Services\\SnapshotService.cs",
+              "ToolTip": "C:\\Projetos\\MESTRADO\\Albert_Pereira\\Algoritmos Distribuidos\\Snapshot_Algorithm\\Codigo\\SD_Snapshot\\Services\\SnapshotService.cs",
+              "RelativeToolTip": "Services\\SnapshotService.cs",
+              "ViewState": "AgIAAGgAAAAAAAAAAAAAAHkAAAADAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-29T14:13:48.308Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "ProcessNode.cs",
+              "DocumentMoniker": "C:\\Projetos\\MESTRADO\\Albert_Pereira\\Algoritmos Distribuidos\\Snapshot_Algorithm\\Codigo\\SD_Snapshot\\Models\\ProcessNode.cs",
+              "RelativeDocumentMoniker": "Models\\ProcessNode.cs",
+              "ToolTip": "C:\\Projetos\\MESTRADO\\Albert_Pereira\\Algoritmos Distribuidos\\Snapshot_Algorithm\\Codigo\\SD_Snapshot\\Models\\ProcessNode.cs",
+              "RelativeToolTip": "Models\\ProcessNode.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAxAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-29T14:12:08.639Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "ChannelMessage.cs",
+              "DocumentMoniker": "C:\\Projetos\\MESTRADO\\Albert_Pereira\\Algoritmos Distribuidos\\Snapshot_Algorithm\\Codigo\\SD_Snapshot\\Models\\ChannelMessage.cs",
+              "RelativeDocumentMoniker": "Models\\ChannelMessage.cs",
+              "ToolTip": "C:\\Projetos\\MESTRADO\\Albert_Pereira\\Algoritmos Distribuidos\\Snapshot_Algorithm\\Codigo\\SD_Snapshot\\Models\\ChannelMessage.cs",
+              "RelativeToolTip": "Models\\ChannelMessage.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-01T22:50:39.726Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "SnapshotResult.cs",
+              "DocumentMoniker": "C:\\Projetos\\MESTRADO\\Albert_Pereira\\Algoritmos Distribuidos\\Snapshot_Algorithm\\Codigo\\SD_Snapshot\\Models\\SnapshotResult.cs",
+              "RelativeDocumentMoniker": "Models\\SnapshotResult.cs",
+              "ToolTip": "C:\\Projetos\\MESTRADO\\Albert_Pereira\\Algoritmos Distribuidos\\Snapshot_Algorithm\\Codigo\\SD_Snapshot\\Models\\SnapshotResult.cs",
+              "RelativeToolTip": "Models\\SnapshotResult.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAuwAQAAAAqAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-29T14:12:51.274Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "_Layout.cshtml",
+              "DocumentMoniker": "C:\\Projetos\\MESTRADO\\Albert_Pereira\\Algoritmos Distribuidos\\Snapshot_Algorithm\\Codigo\\SD_Snapshot\\Views\\Shared\\_Layout.cshtml",
+              "RelativeDocumentMoniker": "Views\\Shared\\_Layout.cshtml",
+              "ToolTip": "C:\\Projetos\\MESTRADO\\Albert_Pereira\\Algoritmos Distribuidos\\Snapshot_Algorithm\\Codigo\\SD_Snapshot\\Views\\Shared\\_Layout.cshtml",
+              "RelativeToolTip": "Views\\Shared\\_Layout.cshtml",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAAwBUAAAAtAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-06-29T14:20:25.464Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Projetos\\MESTRADO\\Albert_Pereira\\Algoritmos Distribuidos\\Snapshot_Algorithm\\Codigo\\SD_Snapshot\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "C:\\Projetos\\MESTRADO\\Albert_Pereira\\Algoritmos Distribuidos\\Snapshot_Algorithm\\Codigo\\SD_Snapshot\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AgIAAA4AAAAAAAAAAAAewB4AAAAKAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-29T14:09:38.413Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,16 @@
+@startuml
+package WebUI {
+  [SnapshotController]
+  [Index.cshtml]
+}
+package Services {
+  [SnapshotService]
+}
+package Models {
+  [ProcessNode]
+  [ChannelMessage]
+  [SnapshotResult]
+}
+WebUI --> Services : utiliza
+Services --> Models : instancia / popula
+@enduml

@@ -1,0 +1,87 @@
+﻿<!DOCTYPE html>
+<html>
+<head>
+    <meta charset="utf-8" />
+    <title>Chandy–Lamport Snapshot</title>
+    <script src="https://code.jquery.com/jquery-3.6.0.min.js"
+            crossorigin="anonymous"></script>
+    <style>
+        table { border-collapse: collapse; }
+        td, th { padding: 6px 12px; border: 1px solid #ccc; }
+    </style>
+</head>
+<body>
+    <h1>Chandy–Lamport Distributed Snapshot</h1>
+    <button id="start">Start Snapshot (initiator = 1)</button>
+
+    <h2>Recorded Process States</h2>
+    <table id="states">
+        <thead>
+            <tr><th>Node</th><th>State</th></tr>
+        </thead>
+        <tbody></tbody>
+    </table>
+
+    <h2>In-Transit Messages</h2>
+    <table id="msgs">
+        <thead>
+            <tr><th>Channel</th><th>Messages</th></tr>
+        </thead>
+        <tbody></tbody>
+    </table>
+
+    <h2>Simular Falha/Recuperação</h2>
+    <div>
+        <button onclick="failNode(1)">Falhar Nó 1</button>
+        <button onclick="recoverNode(1)">Recuperar Nó 1</button>
+        <button onclick="failNode(2)">Falhar Nó 2</button>
+        <button onclick="recoverNode(2)">Recuperar Nó 2</button>
+        <button onclick="failNode(3)">Falhar Nó 3</button>
+        <button onclick="recoverNode(3)">Recuperar Nó 3</button>
+    </div>
+
+    <h2>Status dos Nós</h2>
+    <ul id="nodeStatus"></ul>
+
+    <script>
+        $('#start').click(function(){
+          $.post('/Snapshot/StartSnapshot', { initiatorId: 1 })
+           .done(function(res){
+             // render states
+             var sb = '';
+             $.each(res.recordedStates, function(node, st){
+               sb += `<tr><td>${node}</td><td>${st}</td></tr>`;
+             });
+             $('#states tbody').html(sb);
+
+             // render in-transit
+             var mb = '';
+             $.each(res.inTransit, function(channel, arr){
+               var msgs = arr.map(m => `${m.content} (${m.fromId}→${m.toId})`).join(', ');
+               mb += `<tr><td>${channel}</td><td>${msgs}</td></tr>`;
+             });
+             $('#msgs tbody').html(mb);
+           });
+        });
+
+        function failNode(id) {
+            $.post('/Snapshot/FailNode', { nodeId: id }).done(() => alert('Nó ' + id + ' falhou!'));
+        }
+        function recoverNode(id) {
+            $.post('/Snapshot/RecoverNode', { nodeId: id }).done(() => alert('Nó ' + id + ' recuperado!'));
+        }
+
+        function updateNodeStatus() {
+            $.get('/Snapshot/NodeStatus', function(nodes) {
+                let html = '';
+                for (const n of nodes) {
+                    html += `<li>Nó ${n.id}: ${n.isAlive ? 'Ativo' : 'Falho'}${n.isRecovering ? ' (Recuperando)' : ''}</li>`;
+                }
+                $('#nodeStatus').html(html);
+            });
+        }
+        updateNodeStatus();
+        setInterval(updateNodeStatus, 2000);
+    </script>
+</body>
+</html>
